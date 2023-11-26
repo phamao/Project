@@ -4,7 +4,15 @@ This is a Python script that takes a collection of Spotify's top songs, scrapes 
 
 ## Installation
 
-TBD
+You will need to install the following libraries.
+
+    pip install lyricsgenius
+
+If you want to run the script for yourself, you will need to create a [Genius API Client](https://genius.com/api-clients). Create an account if necessary, then fill in the App Name and App Website URL. You can use [localhost:6000](http://localhost:6000/). You should now see and option to generate a Client Access Token. In this directory, create a file called '.env', containing the following:
+
+    CLIENT_TOKEN = 'YOUR CLIENT ACCESS TOKEN'
+
+You should now be able to run the script.
 
 ## Authors
 
