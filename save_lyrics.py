@@ -1,4 +1,3 @@
-import sys
 import csv
 from lyricsgenius import Genius
 from dotenv import load_dotenv
@@ -45,7 +44,8 @@ def save_lyrics(filename):
             name = title + '.txt'
 
             # Removes incompatible characters
-            name = re.sub('/', '_', name)
+            name = re.sub(' ', '', name)
+            name = re.sub('/', '', name)
 
             # Creates the save path
             save_path = './lyrics/'
