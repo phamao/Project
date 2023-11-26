@@ -4,6 +4,8 @@ This is a Python script that takes a collection of Spotify's top songs, scrapes 
 
 ## Installation
 
+Download the data from Kaggle in the Sources section below. Extract the contents of archive.zip into this directory.
+
 You will need to install the following libraries.
 
     pip install lyricsgenius
