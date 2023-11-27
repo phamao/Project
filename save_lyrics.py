@@ -16,10 +16,7 @@ pathlib.Path('./lyrics/').mkdir(exist_ok=True)
 # Given a csv file, takes each song title and saves its lyrics as a text file, named the title.
 def save_lyrics(filename):
 
-    # Stores the song names and their lyrics
-    songs_and_lyrics = {}
-
-    # Opens the csv file and intializes each song name as a key in songs_and_lyrics 
+    # Opens the csv file 
     f = open(filename, encoding='utf8')
 
     # Opens the text file containing all songs gone through so far
@@ -38,10 +35,9 @@ def save_lyrics(filename):
     for song in raw_songs:
         known_songs.append(song.strip())
 
-    print(known_songs)
-
     known.seek(0, 2)
 
+    # Initializes the csv reader
     csvreader = csv.reader(f, delimiter=',')
 
     # Initializes the Genius search
