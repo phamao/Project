@@ -35,6 +35,7 @@ def save_lyrics(filename):
     for song in raw_songs:
         known_songs.append(song.strip())
 
+    # Moves file pointer to end for appending
     known.seek(0, 2)
 
     # Initializes the csv reader
