@@ -3,6 +3,7 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
+# Prepares all lyrics in lyrics/ directory, separating it into tuples
 def prepare_lyrics(directory):
     all_lyrics = []
 
@@ -31,7 +32,3 @@ def prepare_lyrics(directory):
                 all_lyrics.append((title, lemmas))
 
     return all_lyrics
-
-# Example usage
-lyrics_data = prepare_lyrics("lyrics")
-print(lyrics_data[0])

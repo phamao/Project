@@ -40,26 +40,34 @@ This is an overview of the files and directories in this repository.
 
 Although these files are not included in this repository, they are required. `archive.zip` can be downloaded [here](https://www.kaggle.com/datasets/dhruvildave/spotify-charts). Extract `charts.csv` from `archive.zip` and place it in this directory.
 
+### `functions/`
+
+`functions/` is a directory containing all functions used for this project.
+
+#### `bigrams_collocations.py`
+
+`bigrams_collocations.py` is a Python script that sorts the song/lyric list of tuples into bigrams and collocations.
+
+#### `megalist.py`
+
+`megalist.py` is a Python script that combines all the tokenized lyrics lists into one list.
+
+#### `prepare_lyrics.py`
+
+`prepare_lyrics.py` is a Python script that organizes the lyric text files in `lyrics/` into a list of tuples, where the first value is the song name and second value is the tokenized lyrics.
+
+#### `save_lyrics.py`
+
+`save_lyrics.py` is a Python script that, given `charts.csv`, searches every song title contained in the file using the Genius API. It then saves the lyrics to a text file named after the song in the `lyrics/` directory.\
+
+#### `wordcloud.py`
+
+`wordcloud.py` is a Python script that creates a wordcloud given a list of tokens.
+
 ### `lyrics/`
 
 `lyrics/` is a directory containing text files for the lyrics of individual songs.
 
-### `all_lyrics.sh`
-
-`all_lyrics.sh` is a Bash script that runs `tokenize_lyrics.py` on all text files in the `lyrics/` directory, adding all tokenized lists to `all_tokens.txt`.
-
-### `all_tokens.txt`
-
-`all_tokens.txt` is a text file that stores the tokenized lists of the lyrics of every song in the `lyrics/` directory.
-
 ### `known_songs.txt`
 
 `known_songs.txt` is a text file that stores the names of all songs that have been searched already; this is done to work around the request limitations of Genius's API.
-
-### `save_lyrics.py`
-
-`save_lyrics.py` is a Python script that, given `charts.csv`, searches every song title contained in the file using the Genius API. It then saves the lyrics to a text file named after the song in the `lyrics/` directory.
-
-### `tokenize_lyrics.py`
-
-`tokenize_lyrics.py` is a Python script that takes a text file as a command line argument and tokenizes it, printing a list of tokens.
