@@ -63,7 +63,11 @@ Although these files are not included in this repository, they are required. `ar
 
 #### `save_lyrics.py`
 
-`save_lyrics.py` is a Python script that, given `charts.csv`, searches every song title contained in the file using the Genius API. It then saves the lyrics to a text file named after the song in the `lyrics/` directory.\
+`save_lyrics.py` is a Python script that, given `charts.csv`, searches every song title contained in the file using the Genius API. It then saves the lyrics to a text file named after the song in the `lyrics/` directory.
+
+#### `song_years.py`
+
+`song_years.py` is a Python script that sorts all the songs in `charts.csv` by year. You will need to run the script yourself if you want to generate the text file.
 
 #### `wordcloud.py`
 
