@@ -86,4 +86,8 @@ def save_lyrics(filename):
     f.close()
     known.close()
 
-save_lyrics('charts.csv')
+# while True:
+#     try:
+#         save_lyrics('charts.csv')
+#     except:
+#         break
