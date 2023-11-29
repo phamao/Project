@@ -4,11 +4,11 @@ from prepare_lyrics import prepare_lyrics
 
 def print_common_bigrams(lyrics_tuple):
     title, tokenlist = lyrics_tuple
-    bigrams = nltk.ngrams(tokenlist, 2)
-    bigram_freq = nltk.FreqDist(bigrams)
-    most_freq_bigrams = bigram_freq.most_common(10)
+    pentgrams = nltk.ngrams(tokenlist, 5)
+    pentgrams_freq = nltk.FreqDist(pentgrams)
+    most_freq_bigrams = pentgrams_freq.most_common(10)
 
-    print(f"** Most frequent bigrams in '{title}' **")
+    print(f"** Most frequent Pentgrams in '{title}' **")
     for pair in most_freq_bigrams:
         bigram_string = " ".join(pair[0])
         print(bigram_string)
