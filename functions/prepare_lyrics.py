@@ -28,12 +28,12 @@ def prepare_lyrics(directory):
     # Creating stop words 
     # EXTEND MORE LATER, MAKE SURE TO REMOVE ALL STOP WORDS EVEN IN DIFFERENT LANGUAGES
     stop_words = stopwords.words('english')
-    stop_words.extend(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', "'"])
+    stop_words.extend(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', "'", "."])
 
     # Second for loop to remove the stop words from the tokenized text of all of the files 
     alltokens_nostopwords = []
     for tokenlist in alltokens:
-        nostopwords = [token for token in tokenlist if token.lower() not in stop_words]
+        nostopwords = [token for token in tokenlist if token.lower() not in stop_words and 'Contributors' not in token]
         alltokens_nostopwords.append(nostopwords)
 
 
