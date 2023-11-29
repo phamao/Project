@@ -10,6 +10,9 @@ You will need to install the following libraries.
 
     pip install lyricsgenius
     pip install nltk
+    pip install wordcloud
+    pip install gensim
+    pip install sklearn
 
 If you want to run the script for yourself, you will need to create a [Genius API Client](https://genius.com/api-clients). Create an account if necessary, then fill in the App Name and App Website URL. You can use [localhost:6000](http://localhost:6000/). You should now see and option to generate a Client Access Token. In this directory, create a file called `.env`, containing the following:
 

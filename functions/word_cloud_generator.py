@@ -1,7 +1,15 @@
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
+import os
+import pathlib
 
-def wordcloudgenerator(lists):
+def wordcloudgenerator(lists, name):
+
+    wordcloud_directory = os.path.abspath('.') + '/'
+
+    # Creates the lyrics directory, if it does not currently exist
+    pathlib.Path(wordcloud_directory).mkdir(exist_ok=True)
+
     text = [" ".join(t) for t in lists]
     alltext = " ".join(text)
 
@@ -9,6 +17,4 @@ def wordcloudgenerator(lists):
     plt.figure()
     plt.imshow(wordcloud, interpolation="bilinear")
     plt.axis("off")
-    plt.savefig("allwordcloud.png")
-
-
+    plt.savefig(wordcloud_directory + name + '_wordcloud.txt')

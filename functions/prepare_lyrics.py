@@ -1,53 +1,37 @@
 import os 
 import nltk
-import sys
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
-from wordcloud import WordCloud
-import matplotlib.pyplot as plt
 
-
-
-# Given a directory, prepares its contents and returns the list of tokens after removing stop words and lemmatizing.
 def prepare_lyrics(directory):
+    all_lyrics = []
 
-    # Create a list for all the tokens to be held 
-    alltokens = []
+    # Load stop words
+    stop_words = set(stopwords.words('english'))
+    stop_words.update(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', "'", "."])
 
-   # First for loop to tokenize text from all of the files
+    # Lemmatizer
+    lemmatizer = WordNetLemmatizer() 
+
     for filename in os.listdir(directory):
-        if '.txt' in filename:
+        if filename.endswith('.txt'):
+            title = os.path.splitext(filename)[0]  # Remove the file extension to get the title
             filepath = os.path.join(directory, filename)
 
             with open(filepath, 'r', encoding='utf-8') as file:
                 text = file.read()
                 tokens = nltk.word_tokenize(text)
-                alltokens.append(tokens)
 
+                # Remove stop words
+                tokens = [token for token in tokens if token.lower() not in stop_words and 'Contributors' not in token]
 
-    # Creating stop words 
-    # EXTEND MORE LATER, MAKE SURE TO REMOVE ALL STOP WORDS EVEN IN DIFFERENT LANGUAGES
-    stop_words = stopwords.words('english')
-    stop_words.extend(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', "'"])
+                # Lemmatize
+                lemmas = [lemmatizer.lemmatize(token) for token in tokens]
 
-    # Second for loop to remove the stop words from the tokenized text of all of the files 
-    alltokens_nostopwords = []
-    for tokenlist in alltokens:
-        nostopwords = [token for token in tokenlist if token.lower() not in stop_words]
-        alltokens_nostopwords.append(nostopwords)
+                all_lyrics.append((title, lemmas))
 
+    return all_lyrics
 
-    # Creating the lemmatizer
-    lemmatizer = WordNetLemmatizer() 
-
-    # Third for loop to lemmatize the words 
-    lemmatized = []
-    for tokenlist in alltokens_nostopwords:
-        all_lemmas = [lemmatizer.lemmatize(token) for token in tokenlist]
-        lemmatized.append(all_lemmas)
-
-    return lemmatized
-
-
-# Outputs the list of tokens of the inputted text file
-prepare_lyrics("lyrics")
+# Example usage
+lyrics_data = prepare_lyrics("lyrics")
+print(lyrics_data[0])
