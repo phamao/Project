@@ -12,8 +12,11 @@ You will need to install the following libraries.
     pip install nltk
     pip install wordcloud
     pip install gensim
-    pip install sklearn
     pip install dotenv
+    pip install sklearn
+    pip install scikit-learn
+    pip install plotly
+    pip install networkx[default]
 
 If you want to run the script for yourself, you will need to create a [Genius API Client](https://genius.com/api-clients). Create an account if necessary, then fill in the App Name and App Website URL. You can use [localhost:6000](http://localhost:6000/). You should now see and option to generate a Client Access Token. In this directory, create a file called `.env`, containing the following:
 
@@ -65,18 +68,34 @@ Although these files are not included in this repository, they are required. `ar
 
 `save_lyrics.py` is a Python script that, given `charts.csv`, searches every song title contained in the file using the Genius API. It then saves the lyrics to a text file named after the song in the `lyrics/` directory.
 
+#### `similar_lyrics.py`
+
+`similar_lyrics.py` is a Python script that creates a vectorized visualization of word similarities in all the songs in the `lyrics/` directory.
+
 #### `song_years.py`
 
 `song_years.py` is a Python script that sorts all the songs in `charts.csv` by year. You will need to run the script yourself if you want to generate the text file.
 
-#### `wordcloud.py`
+#### `top20_freq.py`
 
-`wordcloud.py` is a Python script that creates a wordcloud given a list of tokens.
+`top20_most_freq.py` is a Python script that creates a bar graph showing the frequencies of the top 20 words in all the songs in the `lyrics/` directory.
+
+#### `word_cloud.py`
+
+`word_cloud.py` is a Python script that creates a wordcloud given a list of tokens.
 
 ### `lyrics/`
 
 `lyrics/` is a directory containing text files for the lyrics of individual songs.
 
+### `visualizations/`
+
+`visualizations/` is a directory containing various data visualizations.
+
 ### `known_songs.txt`
 
 `known_songs.txt` is a text file that stores the names of all songs that have been searched already; this is done to work around the request limitations of Genius's API.
+
+### `songs_by_year.txt`
+
+`songs_by_year.txt` is a text file contains each song in `charts.csv` by year.

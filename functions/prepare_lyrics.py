@@ -2,6 +2,7 @@ import os
 import nltk
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+import re
 
 # Prepares all lyrics in lyrics/ directory, separating it into tuples
 def prepare_lyrics(directory):
@@ -9,7 +10,10 @@ def prepare_lyrics(directory):
 
     # Load stop words
     stop_words = set(stopwords.words('english'))
-    stop_words.update(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', "'", "."])
+    stop_words.update(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', '\'', '.', '/'])
+    
+    # Song specific stop words
+    stop_words.update(['feat', 'chorus', 'verse', 'pre-chorus', 'post-chorus'])
 
     # Lemmatizer
     lemmatizer = WordNetLemmatizer() 
@@ -21,6 +25,10 @@ def prepare_lyrics(directory):
 
             with open(filepath, 'r', encoding='utf-8') as file:
                 text = file.read()
+
+                text = re.sub('\'', '', text)
+                text = re.sub('\d', '', text)
+
                 tokens = nltk.word_tokenize(text)
 
                 # Remove stop words
