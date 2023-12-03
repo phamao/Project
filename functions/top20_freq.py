@@ -53,7 +53,7 @@ def top20_words_frequency(num_letters, directory):
     #     del most_common_words[0]    
 
     words, counts = zip(*most_common_words)
-    # print(words)
+    print(words)
 
     # Plotting the histogram
     plt.figure(figsize=(10, 10))
@@ -65,8 +65,11 @@ def top20_words_frequency(num_letters, directory):
     # plt.show()
 
     # If going by year...
-    if directory.isnumeric():
+    if directory.isnumeric() and num_letters == 0:
         plt.savefig('visualizations/top20freq_{year}.jpg'.format(year=directory))
+
+    elif directory.isnumeric() and num_letters != 0:
+        plt.savefig('visualizations/top20freq_{year}_{num_letters}.jpg'.format(year=directory, num_letters=num_letters))
     
     else:
         if num_letters == 0:
@@ -77,6 +80,8 @@ def top20_words_frequency(num_letters, directory):
 
 for i in range(2017, 2022):
     top20_words_frequency(0, str(i))
+    top20_words_frequency(4, str(i))
+    top20_words_frequency(5, str(i))
     print('Completed {year}'.format(year=i))
 
 for i in range(15):

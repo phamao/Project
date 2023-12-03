@@ -12,10 +12,13 @@ def prepare_lyrics(directory):
     stop_words = set(stopwords.words('english'))
     spanish_stop_words = set(stopwords.words('spanish'))
     stop_words.update(spanish_stop_words)
-    stop_words.update(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', '\'', '.', '/', '\'', '"', '...', '*', '--', '—', '’', '“', '”','–'])
+    stop_words.update(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', '\'', '.', '/', '\'', '"', '...', '*', '--', '—', '’', '“', '”','–', '//'])
     
     # Song specific stop words
     stop_words.update(['feat', 'chorus', 'verse', 'pre-chorus', 'post-chorus', 'outro', 'verso', 'refrain', 'lyrics'])
+
+    # Extremely common words that appear every time
+    stop_words.update(['like', 'im', 'know', 'might', 'dont', 'got', 'also', 'oh', 'aint', 'youre', 'get', 'go', 'na', 'one'])
 
     # Lemmatizer
     lemmatizer = WordNetLemmatizer() 
