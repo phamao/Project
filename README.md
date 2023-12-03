@@ -56,6 +56,10 @@ Although these files are not included in this repository, they are required. `ar
 
 `collect_data.py` is a Python script that calls `save_lyrics.py` repeatedly to increase search capabilities.
 
+#### `lyrics_by_year.py`
+
+`lyrics_by_year.py` is a Python script that sorts the songs in `lyrics/` into their respective directories.
+
 #### `megalist.py`
 
 `megalist.py` is a Python script that combines all the tokenized lyrics lists into one list.
@@ -78,7 +82,7 @@ Although these files are not included in this repository, they are required. `ar
 
 #### `top20_freq.py`
 
-`top20_most_freq.py` is a Python script that creates a bar graph showing the frequencies of the top 20 words in all the songs in the `lyrics/` directory.
+`top20_most_freq.py` is a Python script that creates a bar graph showing the frequencies of the top 20 words in all the songs in the `lyrics/` directory. Has parameters for minimum word length or sorted by year.
 
 #### `word_cloud.py`
 

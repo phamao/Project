@@ -8,9 +8,10 @@ from prepare_lyrics import prepare_lyrics
 
 # Given an integer num_letters, creates a bar graph with the top 20 words in all of lyrics/ with at least num_letters letters.
 # If num_letters is 0, does not discriminate by word length
-def top20_words_frequency(num_letters):
+# Also can sort by year, which only accepts num_letters = 0
+def top20_words_frequency(num_letters, directory):
         
-    all_lyrics = prepare_lyrics("lyrics/") # list of tuples, whose values are song name and list of tokens (list in tuple in list)
+    all_lyrics = prepare_lyrics('{directory}/'.format(directory=directory)) # list of tuples, whose values are song name and list of tokens (list in tuple in list)
 
     sorted_lyrics = []
 
@@ -52,6 +53,7 @@ def top20_words_frequency(num_letters):
     #     del most_common_words[0]    
 
     words, counts = zip(*most_common_words)
+    # print(words)
 
     # Plotting the histogram
     plt.figure(figsize=(10, 10))
@@ -62,14 +64,23 @@ def top20_words_frequency(num_letters):
     plt.xticks(rotation=45)
     # plt.show()
 
-    if num_letters == 0:
-        plt.savefig('visualizations/top20freq_all.jpg')
+    # If going by year...
+    if directory.isnumeric():
+        plt.savefig('visualizations/top20freq_{year}.jpg'.format(year=directory))
+    
     else:
-        plt.savefig('visualizations/top20freq_' + str(num_letters) +'.jpg')
+        if num_letters == 0:
+            plt.savefig('visualizations/top20freq_all.jpg')
+        else:
+            plt.savefig('visualizations/top20freq_{num_letters}.jpg'.format(num_letters=num_letters))
 
+
+for i in range(2017, 2022):
+    top20_words_frequency(0, str(i))
+    print('Completed {year}'.format(year=i))
 
 for i in range(15):
-    top20_words_frequency(i)
-    print('Completed i = %i' % (i))
+    top20_words_frequency(i, 'lyrics')
+    print('Completed i = {i}'.format(i=i))
 
 print('\nDone!\n')

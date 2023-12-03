@@ -10,10 +10,12 @@ def prepare_lyrics(directory):
 
     # Load stop words
     stop_words = set(stopwords.words('english'))
-    stop_words.update(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', '\'', '.', '/'])
+    spanish_stop_words = set(stopwords.words('spanish'))
+    stop_words.update(spanish_stop_words)
+    stop_words.update(['[', ']', ':', ';', "''", '(', ')', '&', ',', '?', '``', '-', ',', '!', '\'', '.', '/', '\'', '"', '...', '*', '--', '—', '’', '“', '”','–'])
     
     # Song specific stop words
-    stop_words.update(['feat', 'chorus', 'verse', 'pre-chorus', 'post-chorus'])
+    stop_words.update(['feat', 'chorus', 'verse', 'pre-chorus', 'post-chorus', 'outro', 'verso', 'refrain', 'lyrics'])
 
     # Lemmatizer
     lemmatizer = WordNetLemmatizer() 

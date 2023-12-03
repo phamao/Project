@@ -1,6 +1,6 @@
 import csv
 
-# Sorts all the songs in known_songs.txt into songs_by_year.txt
+# Sorts all the songs in charts.csv into songs_by_year.txt
 # You will need to run this yourself to generate the text file.
 def song_years():
 
