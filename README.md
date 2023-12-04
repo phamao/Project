@@ -30,7 +30,7 @@ If you are going to collect a new set of data, it is highly recommended that you
 
 ## Authors
 
-This project was a collaboration between [Tommy Chen](https://github.com/chenafb), [Andrew Pham](https://github.com/phamao), and [Yao Yan](https://github.com/yaoyan01).
+This project was a collaboration between [Andrew Pham](https://github.com/phamao), [Yao Yan](https://github.com/yaoyan01), and [Tommy Chen](https://github.com/chenafb).
 
 ## Sources
 
@@ -39,6 +39,26 @@ This project uses data collected and published on [Kaggle](https://www.kaggle.co
 ## Files
 
 This is an overview of the files and directories in this repository.
+
+### `2017/`
+
+`2017/` is a directory containing the lyrics of songs published in 2017.
+
+### `2018/`
+
+`2018/` is a directory containing the lyrics of songs published in 2018.
+
+### `2019/`
+
+`2019/` is a directory containing the lyrics of songs published in 2019.
+
+### `2020/`
+
+`2020/` is a directory containing the lyrics of songs published in 2020.
+
+### `2021/`
+
+`2021/` is a directory containing the lyrics of songs published in 2021.
 
 ### `archive.zip` and `charts.csv`
 
@@ -63,6 +83,14 @@ Although these files are not included in this repository, they are required. `ar
 #### `megalist.py`
 
 `megalist.py` is a Python script that combines all the tokenized lyrics lists into one list.
+
+#### `megalistbigrams.py`
+
+`megalistbigrams.py` is a Python script that combines all the tokenized lyrics lists into one list, then creates bigrams.
+
+#### `megalistcollocation.py`
+
+`megalist.py` is a Python script that combines all the tokenized lyrics lists into one list, then creates collocations.
 
 #### `prepare_lyrics.py`
 
