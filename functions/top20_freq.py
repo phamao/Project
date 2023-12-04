@@ -77,12 +77,13 @@ def top20_words_frequency(num_letters, directory):
         else:
             plt.savefig('visualizations/top20freq_{num_letters}.jpg'.format(num_letters=num_letters))
 
+# ONLY RUN ONE OF THESE LOOPS AT A TIME
 
-for i in range(2017, 2022):
-    top20_words_frequency(0, str(i))
-    top20_words_frequency(4, str(i))
-    top20_words_frequency(5, str(i))
-    print('Completed {year}'.format(year=i))
+# for i in range(2017, 2022):
+#     top20_words_frequency(0, str(i))
+#     top20_words_frequency(4, str(i))
+#     top20_words_frequency(5, str(i))
+#     print('Completed {year}'.format(year=i))
 
 for i in range(15):
     top20_words_frequency(i, 'lyrics')
