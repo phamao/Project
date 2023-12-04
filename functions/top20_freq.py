@@ -57,7 +57,7 @@ def top20_words_frequency(num_letters, directory):
 
     # Plotting the histogram
     plt.figure(figsize=(10, 10))
-    plt.bar(words, counts)
+    plt.bar(words, counts, color='#00b76c')
     plt.xlabel('Words')
     plt.ylabel('Frequency')
     plt.title('Top 20 Most Frequent Words in Popular Songs')
