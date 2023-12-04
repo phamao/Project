@@ -30,7 +30,7 @@ If you are going to collect a new set of data, it is highly recommended that you
 
 ## Authors
 
-This project was a collaboration between [Andrew Pham](https://github.com/phamao), [Yao Yan](https://github.com/yaoyan01), and [Tommy Chen](https://github.com/chenafb).
+This project was a collaboration between [Andrew Pham](https://github.com/phamao), [Yao Yan Jiang](https://github.com/yaoyan01), and [Tommy Chen](https://github.com/chenafb).
 
 ## Sources
 
