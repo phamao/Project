@@ -2,7 +2,7 @@ import nltk
 from nltk.collocations import *
 from prepare_lyrics import prepare_lyrics
 
-def print_common_bigrams(lyrics_tuple):
+def print_common_bigrams(tokenlist):
     title, tokenlist = lyrics_tuple
     pentgrams = nltk.ngrams(tokenlist, 5)
     pentgrams_freq = nltk.FreqDist(pentgrams)
