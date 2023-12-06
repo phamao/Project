@@ -36,13 +36,6 @@ This project was a collaboration between [Andrew Pham](https://github.com/phamao
 
 This project uses data collected and published on [Kaggle](https://www.kaggle.com/datasets/dhruvildave/spotify-charts). It also uses the [Genius API](https://docs.genius.com/) to acquire song lyrics.
 
-## To Do
-
-Regex to remove any \[...\] from songs that announces verses/intros/outros.
-Remove embeds at the end of every set of lyrics.
-Remove first lines from every set of lyrics, since it contains the song title and useless text.
-Lemmatize only wordclouds.
-
 ## Files
 
 This is an overview of the files and directories in this repository.
