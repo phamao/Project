@@ -13,3 +13,5 @@ def megalist(tuple_list):
             token_megalist.append(token)
 
     return token_megalist
+
+print(len(megalist(prepare_lyrics('lyrics/'))))
