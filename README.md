@@ -18,7 +18,7 @@ You will need to install the following libraries.
     pip install plotly
     pip install networkx[default]
 
-If you want to run the script for yourself, you will need to create a [Genius API Client](https://genius.com/api-clients). Create an account if necessary, then fill in the App Name and App Website URL. You can use [localhost:6000](http://localhost:6000/). You should now see and option to generate a Client Access Token. In this directory, create a file called `.env`, containing the following:
+If you want to run the script for yourself, you will need to create a [Genius API Client](https://genius.com/api-clients). Create an account if necessary, then fill in the App Name and App Website URL. You can use [localhost:6000](http://localhost:6000/). You should now see an option to generate a Client Access Token. In this directory, create a file called `.env`, containing the following:
 
     CLIENT_TOKEN = 'YOUR CLIENT ACCESS TOKEN'
 
@@ -26,7 +26,7 @@ You should now be able to run the script.
 
 ## Usage
 
-If you are going to collect a new set of data, it is highly recommended that you delete `known_songs.txt`, as the file is meant for subsequent runs to keep track of what songs have been searched already. You should also delete all files in the `lyrics/` directory. You should also delete `all_tokens.txt`, as `all_lyrics.sh` appends to the file.
+If you are going to collect a new set of data, it is highly recommended that you delete `known_songs.txt`, as the file is meant for subsequent runs to keep track of what songs have been searched already. You should also delete all files in the `lyrics/` directory.
 
 ## Authors
 
@@ -130,4 +130,4 @@ Although these files are not included in this repository, they are required. `ar
 
 ### `songs_by_year.txt`
 
-`songs_by_year.txt` is a text file contains each song in `charts.csv` by year.
+`songs_by_year.txt` is a text file contains each song in `charts.csv` by year. It is NOT contained in this repository due to its size and must be generated using `song_years.py`.
