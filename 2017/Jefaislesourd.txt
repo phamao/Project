@@ -1,6 +1,3 @@
-11 ContributorsJe fais le sourd Lyrics[Paroles de "Je fais le sourd"]
-
-[Couplet 1]
 J’aimerais toucher le ciel mais j’peux pas m’envoler
 Mieux seul, pas d’Lune de Miel, femme j’ai l’cœur gelé
 Laisse-moi sans nouvelles, et avec je ferai
@@ -10,7 +7,6 @@ La rue leur joue des tours, elle les a ensorcelés
 J’vois qu’tu te prends la tête, suffisait de m’appeler
 Au pire on s’serait engueulés
 
-[Refrain]
 J’fais des tours, et des détours
 On m’appelle, j’fais le sourd
 J’fais des tours, et des détours
@@ -22,7 +18,6 @@ Moi j’veux vivre dans les îles
 J’veux la chance quand j’la désire
 Faire tout c’qui m’ferait plaisir
 
-[Couplet 2]
 J’ai pas tourné la page, j’ai juste changé de livre
 Je ne pense plus à toi, tu vas pas m’rendre ivre
 Je travaille tellement que j’n’ai plus l’temps de vivre

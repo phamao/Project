@@ -1,16 +1,12 @@
-1 ContributorSinun vaikka hajoat Lyrics[Verse 1]
-Olet vielä lauluni
 Lempeä melodia
 Vaik' on vireet vinossa ja
 Nuotit nuokkuvat
 
-[Pre-Chorus]
 Kuin tuo pihapuu
 Ihminen puuskissa taipuu
 Mutta hei, siinä vielä se seisoo
 Enkä mä anna sen kaatuu
 
-[Chorus]
 Mä olen sinun vaikka hajoat
 Vaikka kivun koskeen sä vajoat
 Huuda mulle, rimpuile, sekoa
@@ -20,7 +16,6 @@ Vaikka vihan kuohuihin vajoat
 Anna tulla, tappele, kiroa
 Ei ranteeni vapise
 
-[Verse 2]
 Olet vielä tauluni
 Maisema levollisin
 Vaik' on värit vinksallaan ja
@@ -31,7 +26,6 @@ Ihminen iltaansa haipuu
 Mutta hei, siinä vielä sä seisot
 Enkä mä anna sun kaatuu
 
-[Chorus]
 Mä olen sinun vaikka hajoat
 Vaikka kivun koskeen sä vajoat
 Huuda mulle, rimpuile, sekoa
@@ -41,13 +35,11 @@ Vaikka vihan kuohuihin vajoat
 Anna tulla, tappele, kiroa
 Ei ranteeni vapise
 
-[Verse 3]
 Olet aina lauluni
 Ikuinen melodia
 Ja kunhan muistat hengittää
 Mä en anna sun kaatua
 
-[Chorus]
 Mä olen sinun vaikka hajoat
 Vaikka kivun koskeen sä vajoat
 Huuda mulle, rimpuile, sekoa
@@ -56,7 +48,6 @@ Mä olen sinun vaikka hajoat
 Vaikka vihan kuohuihin vajoat
 Anna tulla, tappele, kiroa
 Ei ranteeni vapise
-[Outro]
 (Mä olen sinun vaikka hajoat)
 (Huuda mulle, rimpuile, sekoa)
 (Mä olen sinun vaikka hajoat)

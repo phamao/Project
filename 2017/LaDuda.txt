@@ -1,13 +1,9 @@
-4 ContributorsLa Duda LyricsLetra de "La Duda"
-[Intro]
-Baby no sé
 No se nada de ti no conozco ni la mitad
 Pero me gustas tanto
 Que a veces me pongo un poco loco
 Quiero ir a buscarte
 Encontrarte para darte un beso más
 
-[Chorus]
 Ya mátame la duda
 Si fue una aventura
 Cuando esa noche de repente
@@ -18,7 +14,6 @@ Si fue una aventura
 No tengas miedo se que sientes
 No dejes que el tiempo se acabe
 
-[Verse 1]
 Pasan noches, pasan días
 Y tu sigues en mi mente todavía
 Es que pienso que el momento
@@ -28,7 +23,6 @@ El deseo te mata, al igual que a mi
 No seas así, déjate sentir
 El deseo nos te mata
 
-[Chorus]
 Ya mátame la duda
 Si fue una aventura
 Cuando esa noche de repente
@@ -39,7 +33,6 @@ Si fue una aventura
 No tengas miedo se que sientes
 No dejes que el tiempo se acabe
 
-[Verse 2]
 Todo lo que hacemos temporal
 Si las cosas van bien, pues disfrútalas
 Para que esperar si quizás nunca más
@@ -49,7 +42,6 @@ No seas así, déjate sentir
 El deseo te mata, al igual que a mi
 No seas así, déjate sentir
 El deseo nos te mata
-[Chorus]
 Ya mátame la duda
 Si fue una aventura
 Cuando esa noche de repente
@@ -68,4 +60,4 @@ Mike la sensa
 Matando la liga mami
 Young Boss (matando)
 Otra liga, otro flow, otro punto
-No hay break1Embed
+No hay break

@@ -1,6 +1,3 @@
-7 ContributorsRuleta rusa Lyrics[Letra de "Ruleta rusa"]
-
-[Verso 1]
 Soy cómo un niño pequeño, rompo todo lo que toco
 La mayoría de mis sueños se fueron cumpliendo, pero morí un poco
 Siempre que consigo algo, siento una gran decepción
@@ -34,7 +31,6 @@ Ser un fallo fue el acierto más grande que fui
 Nadie es 24 horas 100% correcto
 Porque incluso ser perfecto es un defecto en sí."
 
-[Verso 2]
 Y he vuelto a empezar de cero
 Desconfiar de quién me quiere, sin saber muy bien qué quiero
 ¿Qué sabrán los extintores? De lo que es jugar con fuego
@@ -57,7 +53,6 @@ Todo lo que escribo, rompe el corazón?
 Por más que retoque hojas de este bloque y busque un enfoque por cada emoción la razón me dice:
 "¡Eh! no te equivoques, lo que estás cantando es la misma canción"
 La que dice:
-[Estribillo]
 "Bang-bang has fallado demasiado, se agotó tu tiem-po
 Deposita en este cuenco tu materia gris
 Y vuelvo a mirar al suelo y puedo ver mis sesos
@@ -66,4 +61,4 @@ Les digo que da i-gual
 Para equivocarme siempre será un buen momen-to
 Ser un fallo fue el acierto más grande que fui
 Nadie es 24 horas 100% correcto
-Porque incluso ser perfecto es un defecto en sí"1Embed
+Porque incluso ser perfecto es un defecto en sí"

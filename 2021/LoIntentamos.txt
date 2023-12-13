@@ -1,6 +1,3 @@
-1 ContributorLo Intentamos Lyrics[Letra de "Lo Intentamos"]
-
-[Verso]
 Lo intentamos pero no pudo funcionar
 Yo hice las cosas mal
 Yo sí me enamoré
@@ -10,7 +7,6 @@ Que lo olvides mejor
 Que no te busque, que no te llame
 Que otra persona tiene la llave para entrar en tu vida
 
-[Coro]
 ¿Qué voy hacer?
 Cuando tenga ganas de darte un beso
 ¿Qué voy hacer?
@@ -22,7 +18,6 @@ Hoy mírame
 Solamente quiero recuperarte
 Vuelve otra vez
 
-[Interludio]
 Y que lastima que solo intentamos, chula
 Así suena el amor de la calle, chiquitita
 Y la Calle 24
@@ -38,7 +33,6 @@ Hoy mírame
 Solamente quiero recuperarte
 Vuelve otra vez
 
-[Outro]
 Lo intentamos pero no pudo funcionar
 Yo hice las cosas mal
 Yo si me-

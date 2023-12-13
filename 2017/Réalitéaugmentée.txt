@@ -1,6 +1,3 @@
-123 ContributorsRéalité augmentée Lyrics[Paroles de "Réalité augmentée"]
-
-[Couplet 1]
 Issu d'une jeunesse qui m'choque, attirée par le crime, genre
 Si j'me flingue en live, combien de screenshots ?
 Dans la vie t'as pas d'forme mais t'en as sur les plateformes
@@ -21,7 +18,6 @@ Certains sont gênés que je puisse croire
 Soit tu pisses droit, soit j'te renvoie aux premiers mots de la piste trois
 Clique droit supprimer, nique-toi j'suis premier (Hé-hé)
 
-[Refrain]
 DJ, photographe, journaliste, modèle
 À croire ta bio, tu t'réserves un parfait avenir
 Graphiste, mannequin, artiste, blogueuse, actrice
@@ -46,7 +42,6 @@ Toi t'es un énorme rat de laboratoire, qu'on formera
 Fermement, conformément à leur morale
 Et qu'on enfermera dans un mouroir, où est l'amour-roi ?
 
-[Refrain]
 DJ, photographe, journaliste, modèle
 À croire ta bio, tu t'réserves un parfait avenir
 Graphiste, mannequin, artiste, blogueuse, actrice
@@ -55,7 +50,6 @@ DJ, photographe, journaliste, modèle
 À croire ta bio, tu t'réserves un parfait avenir
 Graphiste, mannequin, artiste, blogueuse, actrice
 Menteuse...
-[Couplet 3]
 Aujourd'hui je ne suis pas sorti, peut être qu'il pleut
 C'était pas pareil quand on était tits-pe
 Ton ami te snappe mais tu le verras dès qu'il peut
@@ -75,7 +69,6 @@ Emoji gouttes d'eau, hashtag tard-pé
 Jet de cyprine, je t'ai surpris
 Je t'en supplie, je t'aime, supprime
 
-[Refrain]
 DJ, photographe, journaliste, modèle
 À croire ta bio, tu t'réserves un parfait avenir
 Graphiste, mannequin, artiste, blogueuse, actrice
@@ -84,9 +77,8 @@ DJ, photographe, journaliste, modèle
 À croire ta bio, tu t'réserves un parfait avenir
 Graphiste, mannequin, artiste, blogueuse, actrice
 Menteuse, t'as jamais taffé d'ta vie
-[Outro : Sneazzy]
 Ah ah, j'ai reconnu ton doigt
 Ah ah ah, il a dit c'est un trans' qui m'a envoyé ça alors que c'est son thumb
 Menteur, menteur, j'ai reconnu ta main
 Ah ah, c'est la fin des temps !
-Vraiment le saloon, c'est un merdier, c'est un grand merdier33Embed
+Vraiment le saloon, c'est un merdier, c'est un grand merdier

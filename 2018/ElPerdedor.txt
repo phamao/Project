@@ -1,7 +1,3 @@
-15 ContributorsEl Perdedor LyricsLetra de "El Perdedor"
-
-[Intro]
-«Baby»
 «¿Pa' qué me estás llamando?»
 Dime si es verdad que él te trae loca
 «¿Y a vos qué te importa?» «¿Ah, sí?»
@@ -9,14 +5,12 @@ Aún no lo creo, en tan poco tiempo
 Ya besas otra boca
 «De mala» «¿Qué?»
 
-[Pre-Estribillo: Rude Boyz]
 Dime, ¿cuál fue mi error? (dime)
 Si mi único delito sólo fue amarte
 Hoy soy el perdedor
 Y él me ha robado el truco
 Para enamorarte (Rude Boyz)
 
-[Estribillo]
 Y dime que me amas
 Aunque sea mentira
 No puedo negarte
@@ -31,13 +25,11 @@ Y dile en su cara
 Que aún por mí suspiras
 No te engañes no me olvidarás (Pretty Boy)
 
-[Puente]
 Está claro que tú
 Mereces a alguien mejor
 No sé en qué falle
 Pero no hay otro como yo (dícelo)
 
-[Verso 1]
 Oye má', dame otra oportunidad
 Ya sabes no soy así
 Sólo tú me haces rogar (ajá)
@@ -45,13 +37,11 @@ Mirándome al espejo
 Y peleando con mi ego
 Si entre más me alejo más te pienso
 
-[Pre-Estribillo]
 Dime, ¿cuál fue mi error?
 Si mi único delito sólo fue amarte
 Hoy soy el perdedor
 Y él me ha robado el truco
 Para enamorarte
-[Estribillo]
 Y dime que me amas
 Aunque sea mentira
 No puedo negarte
@@ -67,7 +57,6 @@ Y dile en su cara
 Que aún por mí suspiras
 No te engañes no me olvidarás
 
-[Verso 2]
 Y si te da la gana de volver a verme
 Estaré disponible para contestarte
 Yo sé que por tu parte no sientes rencores
@@ -78,20 +67,17 @@ Nos filmábamo' y veíamo'
 Éramos dos locos sin saber pa' dónde íbamos
 Pero son cosas del destino
 Al pasar el tiempo tú cogiste tu camino, baby
-[Puente]
 Está claro que tú
 Mereces a alguien mejor (está claro)
 No se en qué fallé
 Pero no hay otro como yo
 
-[Pre-Estribillo]
 Dime, ¿cuál fue mi error?
 Si mi único delito sólo fue amarte
 Hoy soy el perdedor (baby)
 Y él me ha robado el truco
 Para enamorarte
 
-[Estribillo]
 Y dime que me amas
 Aunque sea mentira
 No puedo negarte
@@ -108,7 +94,6 @@ Que aún por mí suspiras
 Por mí suspiras
 Que no, que no, que no
 
-[Outro]
 (dime cuál fue mi error)
 Yo', baby (sólo fue amarte)
 Y te hablo claro (hoy soy el perdedor)
@@ -124,4 +109,4 @@ Y yo soy Maluma, baby
 Sabes qué...
 Él no te hace el amor
 No te trata bien
-Y que yo fui el primero en tu vida4Embed
+Y que yo fui el primero en tu vida

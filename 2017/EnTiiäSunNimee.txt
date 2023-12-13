@@ -1,6 +1,3 @@
-4 ContributorsEn tiiä sun nimee Lyrics[Chorus: Ollie & Nikke Ankara]
-Emmä tiedä ees sun nimee
-En ees tiedä mistä sä tuut
 Ja vaikka tääl on pimeet
 Ei olla niinkuin ne muut
 Ja kyllä kaikki tietää
@@ -8,7 +5,6 @@ Et vien sut pois täältä
 (Ankarraa)
 Vaik en ees tiiä sun nimee
 
-[Verse 1: Nikke Ankara]
 Pidemmän jo aikaa mä oon tarkkaillu sua kauempaa
 Tää jatkuva venailu alkaa tuntuu kauheelta
 Haluisin sua enemmän
@@ -18,7 +14,6 @@ Sun nimetön kädes näyttää vaa iha liian tyhjältä
 Hulluu et mä kelailen tälläsii vaikken tunne
 Kaikenlaisii signaalei laittelen sulle
 
-[Pre-Chorus: Nikke Ankara]
 Yleensä lyhyeks taitaa mun suhteet jäädä
 Mut must tuntuu et sä oot just se väärä
 Olin pelipoika ja mä vannoin et mä muutu
@@ -38,7 +33,6 @@ Riistän sut bileist aion viiä sut inee
 Vaikken tiiä sun nimee
 Vaik en ees tiiä sun nimee
 
-[Verse 2: Nikke Ankara]
 Liian hyvä ollakseen totta, se on huolenaihe
 Emmä pysty olee varma ootko kuolevainen
 Kerro vaa jos mä tarvisin vielä reenii
@@ -48,7 +42,6 @@ Ja juostaa karkuu ku haku ois päällä
 Tiiät et mä tiiän et haluisit viiä
 Joten mitä seisot siinä camoon lähetää kiitää
 
-[Pre-Chorus: Nikke Ankara]
 Pikkupojast asti ollu perso naisille
 Hahhaa, terkut kaikille
 Tän takii herään se on se syy miksi mä elän
@@ -57,7 +50,6 @@ Tää on pimeetä pakko verhot pimentää
 Meininki viileentä vaikken tiiä sun nimeekään
 Ilta on viel nuori joten pidetään tää elos
 Ei se mistä sä tuut vaa mihi sä oot menos
-[Chorus: Ollie & Nikke Ankara]
 Emmä tiedä ees sun nimee
 En ees tiedä mistä sä tuut
 Ja vaikka tääl on pimeet
@@ -68,11 +60,9 @@ Riistän sut bileist aion viiä sut inee
 Vaikken tiiä sun nimee
 Vaik en ees tiiä sun nimee
 
-[Bridge: Nikke Ankara]
 Jos mä saisin sut tänään oisin valmis lähtemään
 En aio kysyy keneltkään kuka oot
 
-[Chorus: Ollie & Nikke Ankara]
 Emmä tiedä ees sun nimee
 En ees tiedä mistä sä tuut
 Ja vaikka tääl on pimeet
@@ -86,8 +76,7 @@ Ei olla niinkuin ne muut
 Ja kyllä kaikki tietää
 Et vien sut pois täältä
 Vaikken tiiä ees sun nimee
-[Outro: Ollie & Nikke Ankara]
 Jos mä saisin sut tänään oisin valmis lähtemään
 En aio kysyy keneltkään kuka oot
 Jos mä saisin sut tänään oisin valmis lähtemään
-En aio kysyy keneltkään kuka oot1Embed
+En aio kysyy keneltkään kuka oot

@@ -1,6 +1,12 @@
 import matplotlib.pyplot as plt
 from collections import Counter
-from prepare_lyrics import prepare_lyrics
+import os
+import sys
+
+# Necessary for import from sister directories
+sys.path.append(os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'processing')))
+from prepare_lyrics import prepare_lyrics # This warning is fine
+from megalist import megalist # This warning is fine
 
 # Given an integer num_letters, creates a bar graph with the top 20 words in all of lyrics/ with at least num_letters letters.
 # If num_letters is 0, does not discriminate by word length

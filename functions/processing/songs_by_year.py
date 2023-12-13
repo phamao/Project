@@ -13,7 +13,7 @@ def lyrics_by_year(year):
     pathlib.Path(os.path.abspath('.') + '/' + str(year) + '/').mkdir(exist_ok=True)
 
     # Open songs_by_year.txt in read mode
-    file = open('songs_by_year.txt', 'r', encoding='utf-8')
+    file = open('sorted_years.txt', 'r', encoding='utf-8')
 
     # Goes through each line and checks if its key = year
     for line in file:
@@ -70,5 +70,7 @@ lyrics_by_year(2018)
 lyrics_by_year(2019)
 lyrics_by_year(2020)
 lyrics_by_year(2021)
+
+print('\nProcess Completed\n')
 
 # Note: some songs are listed multiple times, so they may appear in multiple year lists

@@ -1,12 +1,15 @@
-from prepare_lyrics import prepare_lyrics
-from megalist import megalist
 import matplotlib.pyplot as plt
 from nltk.stem import WordNetLemmatizer
 from gensim.models import Word2Vec
-from sklearn.decomposition import PCA
 from wordcloud import WordCloud
-import os
 import pathlib
+import os
+import sys
+
+# Necessary for import from sister directories
+sys.path.append(os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'processing')))
+from prepare_lyrics import prepare_lyrics # This warning is fine
+from megalist import megalist # This warning is fine
 
 def wordcloudgenerator(lyrics_list):
 

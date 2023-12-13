@@ -1,6 +1,3 @@
-1 ContributorSobre las olas Lyrics[Letra de "Sobre las olas"]
-
-[Verso 1]
 Sobre las olas un barco va
 Sobre las olas un barco va
 Y va y se va, y va y se va
@@ -12,7 +9,6 @@ De mi ciudad, de mi ciuda' ra-ra-ra
 Muy contento yo me siento en la mañana al despertar
 Me tomo los alimentos y me salgo a trabajar
 
-[Coro]
 Por la calle voy mirando la gente que viene y va
 Tan contento que me siento cuando escucho saludar
 "Hola, ¿qué tal? ¿Cómo te va?"
@@ -31,7 +27,6 @@ Savadivadu, sava-dava
 Y de nuevo Latin Brothers
 Pa' baila' y goza'
 
-[Coro]
 Hola, ¿qué tal? Hola, ¿qué tal?
 ¿Cómo te va? ¿Cómo te va?
 Hola, ¿qué tal? En Barranquilla
@@ -41,5 +36,4 @@ Hola, ¿qué tal? Y desde noviembre
 Hola, ¿qué tal? En Barranquilla
 ¿Cómo te va? Con una morena
 
-[Outro]
-Y de nuevo, lo que me gusta a mí2Embed
+Y de nuevo, lo que me gusta a mí

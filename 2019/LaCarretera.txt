@@ -1,6 +1,3 @@
-11 ContributorsLa Carretera Lyrics[Letra de "La Carretera"]
-
-[Verso 1]
 Voy manejando por la noche y pienso en ti
 Y en tantas cosas que no te llegué a decir
 Y la luna desde lejos me acompaña
@@ -13,7 +10,6 @@ Y las luces de los autos brillan como las estrellas en el cielo del dolor
 El camino va pasando y yo voy acelerando como quien busca el amor
 Yo te busco como un loco
 
-[Estribillo]
 Dime
 ¿Dónde estarás?
 ¿Dónde estarás?
@@ -40,7 +36,6 @@ No va ser mejor que yo
 No lo dudes
 Mi amor
 
-[Coro]
 Dime
 ¿Dónde estarás?
 ¿Dónde estarás?
@@ -58,4 +53,4 @@ Dime
 ¿Dónde estarás?
 Yo sigo pensando en ti
 Quiero saber si todavía te quedará un poquito de amor por mí
-La carretera se hace larga y yo siento que puedo morir4Embed
+La carretera se hace larga y yo siento que puedo morir

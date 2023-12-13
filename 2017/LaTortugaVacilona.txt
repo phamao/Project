@@ -1,5 +1,3 @@
-1 ContributorLa Tortuga Vacilona LyricsDama, caballero, señorita
-Esta es la historia de una tortuguita
 Que sale de noche y se acuesta de mañana
 Que sale de noche y se acuesta de mañana
 
@@ -10,7 +8,6 @@ Va pa' la esquina y le silba a las guachas
 
 Y se tira un pasito de cumbia
 
-[Chorus]
 De la cumbia buena, la baila la rusia
 También la morena, la negra, la crespa
 También la colorina
@@ -35,7 +32,6 @@ Va pa' la esquina y le silba a las guachas
 
 Y se tira un pasito de cumbia
 
-[Chorus]
 De la cumbia buena, la baila la rusia
 También la morena, la negra, la crespa
 También la colorina
@@ -48,7 +44,6 @@ Pasan los días, yo me pongo viejo
 Mi corazón rojito como los cangrejos
 Vamos pa' la playa con los maipucinos
 Mi guacha, yo te invito un melón con vino
-[Chorus]
 De la cumbia buena, la baila la rusia
 También la morena, la negra, la crespa
 También la colorina

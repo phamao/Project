@@ -1,6 +1,3 @@
-18 ContributorsLes sunlights des tropiques Lyrics[Paroles de "Les sunlights des tropiques"]
-
-[Couplet 1]
 Vis sous l'équateur du Brésil
 Entre Cuba et Manille
 À l'heure d'été c'est facile
@@ -10,7 +7,6 @@ J'ai dans le cœur un bongo
 J'ai dans la tête un oiseau
 Qui te dit tout haut
 
-[Refrain]
 Viens danser
 Sous les sunlights des tropiques
 L'amour se raconte en musique
@@ -21,7 +17,6 @@ J'aime l'océan pacifique
 Y a rien à faire qu'à rêver
 Prends-moi la main viens danser
 
-[Couplet 2]
 Vivre, entre les vagues et le ciel
 Tu ne seras jamais plus belle
 Que cette chanson qui t'appelle
@@ -41,12 +36,10 @@ J'aime l'océan pacifique
 Y a rien à faire qu'à rêver
 Prends-moi la main viens danser
 
-[Pont]
 Viens danser, viens danser, viens danser
 Oh, oh, danse, danse, danse, danse, danse
 Viens danser, viens danser
 
-[Refrain]
 Viens danser
 Sous le sunlight des tropiques
 L'amour se raconte en musique
@@ -56,6 +49,5 @@ J'aime l'océan Pacifique
 Ça m'fait quelque chose de magique
 Y a rien à faire qu'à rêver
 Prends-moi la main, viens danser
-[Outro]
 Sous le sunlight des tropiques
 L'amour se raconte en musiqueEmbed

@@ -1,5 +1,3 @@
-1 ContributorPohjanmaan kautta Lyrics[Verse 1]
-Ei pojasta polvi parane
 Kuljen kömpelöin liikkein täällä
 Pohjoisen maan päällä
 Jossa sukupuu seisoo vahvana
@@ -12,7 +10,6 @@ Jolla seisoo mykkä kansa
 Auringonlaskua tuijottaen
 Hiljaa valtioksi muuttuen
 
-[Chorus]
 Isän, pojan ja pontikan
 Nimeen täällä kaikki vannotaan
 Kautta pohjanmaan
@@ -31,7 +28,6 @@ Etsien aurinkoa joka
 Jossain lähiön takana
 Makaa kai jo kuolleena
 
-[Chorus]
 Isän, pojan ja pontikan
 Nimeen täällä kaikki vannotaan
 Kautta pohjanmaan

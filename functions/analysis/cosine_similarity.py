@@ -1,13 +1,14 @@
-import os
-import nltk
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 import networkx as nx
 import plotly.graph_objects as go
-from prepare_lyrics import prepare_lyrics
+import os
+import sys
 
+# Necessary for import from sister directories
+sys.path.append(os.path.normpath(os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'processing')))
+from prepare_lyrics import prepare_lyrics # This warning is fine
+from megalist import megalist # This warning is fine
 
 all_lyrics = prepare_lyrics("lyrics/")  # Replace with your directory
 

@@ -8,7 +8,7 @@ def song_years():
     songs_per_year = {}
 
     # Opens charts.csv
-    charts = open('charts.csv', encoding='utf-8')
+    charts = open('data/charts.csv', encoding='utf-8')
 
     # Initializes the csv reader
     csvreader = csv.reader(charts, delimiter=',')
@@ -25,7 +25,7 @@ def song_years():
             songs_per_year[row[2][0:4]].append(row[0]) 
 
     # Prints the dictionary to songs_by_year.txt
-    with open('songs_by_year.txt', 'w', encoding='utf-8') as f:
+    with open('sorted_years.txt', 'w', encoding='utf-8') as f:
         for key, value in songs_per_year.items():
             f.write('%s:%s\n' % (key, value))
 
