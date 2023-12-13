@@ -41,20 +41,18 @@ To collect more data, run `functions/collect_data.py` as many times as desired. 
 
 If you wish to begin collecting data from the first song, it is recommended to delete the following files:
 
-- `known_songs.txt`: This text file tracks all the songs that have already been searched so that they will not be searched on subsequent runs. If it is not deleted, the search will begin midway through `charts.csv`, which may or may not cause issues depending on your purposes.
-
 - `lyrics/*`: Deleting all the files in the `lyrics/` directory will ensure that future searches are actually saving each song. If you do not, each file will be overwritten, and it will be harder to confirm if songs are being saved.
 
-- `20XX/*`: The year directories contain the songs in `known_songs.txt`; therefore, if `known_songs.txt` has been deleted and you wish to run `songs_by_year.py`, these directores should be empty.
+- `20XX/*`: The year directories contain the songs in `known_songs.txt`; therefore, if `known_songs.txt` has been deleted and you wish to run `year_sort.py`, these directores should be empty.
 
 You can now begin collecting data from scratch with `functions/collect_data.py`.
 
 
 ### Data Processing
 
-Run `clean_lyrics.py` once all desired lyrics have been collected or more lyrics have been added. **This should be run before `songs_by_year.py` as it copies directly from `lyrics/`. Any analysis should be done after as well for the same reason.**
+Run `clean_lyrics.py` once all desired lyrics have been collected or more lyrics have been added. **This should be run before `year_sort.py` as it copies directly from `lyrics/`. Any analysis should be done after as well for the same reason.**
 
-Since `sorted_years.txt` is too large to include in the repository, **you must run `year_sort.py` before running `songs_by_year.py`.** This is because `songs_by_year.py` directly draws from `sorted_years.txt`.
+To sort collected songs by year, run `year_sort.py`.
 
 `megalist.py` and `prepare_lyrics.py` both only contain helper functions and are only called by other files in the `functions/analysis/` directory, so these do not need to be individually run. Nothing will happen if you do.
 
@@ -94,9 +92,9 @@ This project uses data collected and published on [Kaggle](https://www.kaggle.co
 
 - **Solved 12/13/2023:** ~~Refactor any Python files that directly access `charts.csv` to path to `data/charts.csv` (should just be `collect_data.py` and `year_sort.py`), change any README instances where it says 'export to main directory' to 'export to the `data/` directory, update README~~
 
-- **ADDED 12/12/2023:** Fix some stop words not being detected (vocalizations)
+- **Solved 12/13/2023:** ~~Merge `songs_by_year.py` and `year_sort.py` into 1 file, update documentation as needed~~
 
-- **ADDED 12/13/2023:** Merge `songs_by_year.py` and `year_sort.py` into 1 file, update documentation as needed
+- **ADDED 12/12/2023:** Fix some stop words not being detected (vocalizations)
 
 
 ## File Hierarchy
@@ -191,13 +189,9 @@ Python script that combines all the tokenized lyrics lists into one list.
 
 Python script that tokenizes and removes stop words from the lyric text files, then organizes them into a list of tuples, where the first value is the song name and second value is the tokenized lyrics.
 
-#### `songs_by_year.py`
-
-Python script that copies the songs from `lyrics/` to their respective year directory using `sorted_years.txt`.
-
 #### `year_sort.py`
 
-Python script that sorts all the songs in `charts.csv` by year, then saves them to `sorted_years.txt`. You will need to run the script yourself if you want to generate the text file.
+Python script that sorts all the songs in `charts.csv` by year, creates directories for the years 2017-2021 if necessary, the copies songs from `lyrics/` to their respective year directories.
 
 
 ### `lyrics/`
@@ -211,7 +205,3 @@ Directory containing various data visualizations.
 ### `known_songs.txt`
 
 Text file that stores the names of all songs that have been searched already; this is done to work around the request limitations of Genius's API.
-
-### `sorted_years.txt`
-
-Text file contains each song in `charts.csv` by year. It is **NOT** contained in this repository due to its size and must be generated using `song_years.py`.

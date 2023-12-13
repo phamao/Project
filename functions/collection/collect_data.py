@@ -1,6 +1,9 @@
 from save_lyrics import save_lyrics
 
-# Greatly extends possible searches in one session
+###################################################
+# Continuously run this to gather more song lyrics.
+###################################################
+
 while True:
     try:
         save_lyrics('data/charts.csv')
