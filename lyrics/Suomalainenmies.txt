@@ -1,4 +1,3 @@
-2 ContributorsSuomalainen mies Lyrics[Hook]
 Suomalainen mies juo ittensä hengilt
 Nappaa makkaran ja twelvin
 Tappaa aikaa ittekseen
@@ -10,7 +9,6 @@ Hakkaa akkaa ja rengin
 Tappaa aikaa ittekseen
 Kysyy vaimolta Tuonelas mitä sitten teet?
 
-[Verse 1]
 Kesä, juhannusjurrinen lärvispede
 Teki pulahdusitsarin taas järvivedes
 Ku Suomi on tuhansien järvien maa
@@ -38,7 +36,6 @@ Ku EU:l illan paras
 Ja Milla sano et on semisti hintahtava
 You might also like[Hook]
 
-[Verse 2]
 Suomi suomalaisille, muttei naisille
 Polttoainein riittää turpeit kaikille
 Murhaa perheen lumihanges
@@ -61,5 +58,4 @@ Papi meni puuceest
 Talvi teki huurteen
 Tuli orkut ku joi mukitolkul
 
-[Hook]
 [Sample]Embed

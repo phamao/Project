@@ -1,6 +1,3 @@
-13 ContributorsChöre Lyrics[Songtext zu „Chöre“]
-
-[Strophe 1]
 Warum machst du dir 'n Kopf? Wovor hast du Schiss?
 Was gibt's da zu grübeln? Was hast du gegen dich?
 Ich versteh' dich nicht, mhm-mhm
@@ -8,11 +5,9 @@ Immer siehst du schwarz und bremst dich damit aus
 Nichts ist gut genug, du haust dich selber raus
 Wann hörst du damit auf?
 
-[Pre-Refrain]
 Wie ich dich seh', ist für dich unbegreiflich
 Komm, ich zeig's dir
 
-[Refrain]
 Ich lass' Konfetti für dich regnen, ich schütt' dich damit zu
 Ruf dein'n Nam'n aus allen Boxen, der beste Mensch bist du
 Ich roll' den roten Teppich aus, durch die Stadt, bis vor dein Haus
@@ -22,7 +17,6 @@ Oh-oh-oh-oh-oh-ohh, und die Chöre singen für dich
 Oh-oh-oh-oh-oh-ohh
 Oh-oh-oh-oh-oh-ohh
 
-[Strophe 2]
 Hör auf, dich zu wehren, das macht doch keinen Sinn
 Du hast da noch Konfetti in der Falte auf der Stirn
 Warum willst du nicht kapier'n, mhm-mhm
@@ -33,7 +27,6 @@ See Mark Forster LiveGet tickets as low as $72You might also like[Pre-Refrain]
 Wie ich dich seh', ist für dich unbegreiflich
 Komm, ich zeig's dir
 
-[Refrain]
 Ich lass' Konfetti für dich regnen, ich schütt' dich damit zu
 Ruf dein'n Nam'n aus allen Boxen, der beste Mensch bist du
 Ich roll' den roten Teppich aus, durch die Stadt, bis vor dein Haus
@@ -43,7 +36,6 @@ Oh-oh-oh-oh-oh-ohh, und die Chöre singen für dich
 Oh-oh-oh-oh-oh-ohh
 Oh-oh-oh-oh-oh-ohh
 
-[Outro]
 Und die Trompeten spielen für dich
 Und die Trommeln klingen für dich
-Und die Chöre singen für dich2Embed
+Und die Chöre singen für dich

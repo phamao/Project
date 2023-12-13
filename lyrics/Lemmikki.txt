@@ -1,7 +1,5 @@
-3 ContributorsLemmikki LyricsHeyy yeah
 Heyy
 
-[Verse 1]
 Merkkikello ja kalliita pukuja
 Taiot naisii ku Houdini pupuja
 Mut mua ei kiinnosta mitä susta puhutaan
@@ -9,7 +7,6 @@ Mä oon päättänyt että sä mun oot
 Enkä aio potee huonoo omatuntoo
 Haluun loppuun sut kuluttaa
 
-[Pre-Chorus]
 Sä oot niin komee, sä oot niin nätti
 Joo, haluun heittää sut säkkiin
 Haluun sut nopee, haluun sut äkkii
@@ -17,7 +14,6 @@ Haluun laittaa sut näytille häkkiin
 Koeta juosta vielä, jos kerkeet
 En aio vapauttaa sua hetkeen
 
-[Chorus]
 Ha-ha-ha-ha-haaa
 Kyl mä vielä sut loukkuun saan
 Aion kesyks sut kouluttaa
@@ -38,7 +34,6 @@ Väität, ettei susta saa sulhoo
 Mut mun käsittely fiksaa sut kuntoon
 Haluun pehmeeks sut sulattaa
 
-[Pre-Chorus]
 Sä osaat pelaa, mä osaan voittaa
 Oot amatööri, kun rupeen dominoimaan
 Turha kelaa, turha koittaa
@@ -46,7 +41,6 @@ Parempi olla vaan kilttiä poikaa
 Koeta juosta vielä, jos kerkeet
 En aio vapauttaa sua hetkeen
 
-[Chorus]
 Ha-ha-ha-ha-haaa
 Kyl mä vielä sut loukkuun saan
 Aion kesyks sut kouluttaa
@@ -59,7 +53,6 @@ Aion kesyks sut kouluttaa
 Tuu leikkii mun
 Haluun laittaa sut remmiin kii
 Tuu leikkii mun lemmikkii
-[Bridge]
 Sun täytyy alkaa jo hiffaa
 Ei saa kiskoa hihnaa
 Tuut paikalle kun mä vislaan
@@ -68,7 +61,6 @@ Sun täytyy alkaa jo hiffaa
 Ei saa kiskoa hihnaa
 Tuut paikalle kun mä vislaan
 
-[Refrain]
 Ha-ha-ha-ha-haaa
 Kyl mä vielä sut loukkuun saan
 Aion kesyks sut kouluttaa

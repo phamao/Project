@@ -1,14 +1,11 @@
-23 ContributorsZebah Lyrics[Intro: Node]
 Jaja, jajajajajaja
 Jajaja, aiwa
 
-[Vers 1: Node]
 Vi' stadig alene, hvorfor fuck sku' vi dele?
 I ikk' på vores team, min lyd gør mig hel, bar' snif jeres lin'
 For der flous der skal ejes, familien skal plejes
 Tiden skal steges, kujoner skal fejes (jajajaja)
 
-[Bro: Node]
 Så lad vær' at kom og sig du er god for mig nu
 For alle ude er sultne og vi varme på de flous
 Ja lad vær' at kom og sig du er god for mig nu
@@ -16,7 +13,6 @@ Og alle ude er sultne og vi dør for det flous
 Så lad os vær' alen-len-len-len-len-len-len'
 Lad os vær' alen'
 
-[Omkvæd: Node]
 I kan allesamen dele vores zebah
 I kan allesamen dele vores zebah
 I kan allesamen dele vores zebah
@@ -38,7 +34,6 @@ Hver dag i kvarteret det er det samme, samme
 Tre dodo ringer på en gang, gang
 Alt var fredeligt bare en gang, gang
 
-[Omkvæd: Node]
 I kan allesamen dele vores zebah
 I kan allesamen dele vores zebah
 I kan allesamen dele vores zebah
@@ -46,12 +41,10 @@ I kan allesamen dele vores zebah
 I kan allesamen dele vores zebah-bah-bah-bah-bah-bah-bah-bah-bah-bah
 Zebah-bah-bah-bah-bah-bah-bah-bah-bah-bah
 
-[Vers 3: Node]
 Ja, baba han stresser, har ikk' set ham over i en uge nu
 Jeg hænger med Z og vi er på jagt, efter de flou-flou
 Natten er koldt og jeg håber vi snart rammer en shugo
 Ja, atten er tom og jeg håber vi snart rammer en shugo
-[Bro: Node]
 Så lad vær' at kom og sig du er god for mig nu
 For alle ude er sultne og vi varme på de flous
 Ja lad vær' at kom og sig du er god for mig nu
@@ -59,7 +52,6 @@ Og alle ude er sultne og vi dør for det flous
 Så lad os vær' alen-len-len-len-len-len-len'
 Lad os vær' alen'
 
-[Omkvæd: Node]
 I kan allesamen dele vores zebah
 I kan allesamen dele vores zebah
 I kan allesamen dele vores zebah
@@ -67,7 +59,6 @@ I kan allesamen dele vores zebah
 I kan allesamen dele vores zebah-bah-bah-bah-bah-bah-bah-bah-bah-bah
 Zebah-bah-bah-bah-bah-bah-bah-bah-bah-bah
 
-[Outro: Node]
 Ja nu ka' i allesammen bare del vores zebah, aiwa
 Ja nu ka' i allesammen bare del vores zebah
 Zebah-bah-bah-bah-bah-bahEmbed

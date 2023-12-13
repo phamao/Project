@@ -1,6 +1,3 @@
-41 ContributorsC’est le son de la gratte Lyrics[Paroles de "C'est le son de la gratte"]
-
-[Couplet 1]
 Le cous' je tourne en TDM
 Sous Grey Goose, j'oublie les problèmes
 Et je tousse quand je fume trop d'herbe
@@ -13,7 +10,6 @@ Tu me rabaisses, bah, nique tes ancêtres
 T'étonne pas si on vient à sept dans le Golf 5
 Arrête de faire le mafieux, tu es qu'une chaussette
 
-[Refrain]
 Mets ta cagoule, c'est le son de la gratte
 Voiture volée, c'est le son de la gratte
 Fais poursuite, rends fou la BAC
@@ -23,7 +19,6 @@ Voiture volée, c'est le son de la gratte
 Fais poursuite, rends fou la BAC
 Surveille l'immat', rends fou la BAC
 
-[Couplet 2]
 Roue arrière, pochon dans le caleçon
 Je passe les vitesses à l'air t'aimes la sensation
 J'ai des mauvaises, des bonnes fréquentations
@@ -47,7 +42,6 @@ Voiture volée, c'est le son de la gratte
 Fais poursuite, rends fou la BAC
 Surveille l'immat', rends fou la BAC
 
-[Couplet 3]
 Je brise tout sur le BPM
 Tu me dégoutes, toi et ta dégaine
 Si on t'écoute, je suis fini pourtant j'y mets tout mon putain de cœur, je me démène
@@ -63,7 +57,6 @@ Si je veux j'engage des petits vatos
 Y a La Quica dans Narcos
 J'ai pas changé, je défends ma cause
 Ma jeunesse en Lacoste
-[Refrain]
 Mets ta cagoule, c'est le son de la gratte
 Voiture volée, c'est le son de la gratte
 Fais poursuite, rends fou la BAC
@@ -71,4 +64,4 @@ Surveille l'immat', rends fou la BAC
 Mets ta cagoule, c'est le son de la gratte
 Voiture volée, c'est le son de la gratte
 Fais poursuite, rends fou la BAC
-Surveille l'immat', rends fou la BAC2Embed
+Surveille l'immat', rends fou la BAC

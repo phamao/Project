@@ -1,9 +1,5 @@
-45 ContributorsTranslationsEnglishDis-moi que tu m’aimes Lyrics[Paroles de "Dis-moi que tu m'aimes"]
-
-[Intro : tag]
 Tonii on the Beats
 
-[Couplet 1]
 J'avoue, j'ai fait le con, enfermé entre quatre murs, trois heures du mat', je repense à toi
 Et si un jour, ça tire, est-ce que tu s'ras mon armure ? Est-ce que t'agiras comme une soldat ?
 Y a toi, y a moi, y a nous, on ne fait plus qu'un
@@ -11,11 +7,9 @@ Le plus important, c'est l’atterrissage (Ouais, ouais, ouais), c'est pas la ch
 Et si je saute, tu s'ras mon parachute (Eh), on ira au Niagara voir les chutes d'eau (D'eau)
 Des nuages à travers les hublots, pourquoi j't'ai pas rencontré plus tôt ?
 
-[Pré-refrain]
 T'as c'qu'il faut là où il faut (Partout), après toi, y a pas mieux (Bah ouais)
 Dis-moi qu'tu m'aimes (Dis-moi qu'tu m'aimes) et regardes moi dans les yeux
 
-[Refrain]
 Dis-moi qu'tu m'aimes (Dis-moi qu'tu m'aimes)
 Ouais, ouais, dis-moi qu'tu m'aime (Ouais, ouais, dis-moi qu'tu m'aimes)
 J'suis un voyou d'la tess qui a besoin d'amour, dis-moi qu'tu m'aimes
@@ -36,11 +30,9 @@ Mais on s'comprends, on a l'même humour, on s'comprends, on a l'même humour
 Tu plais à ma mère, la tienne m'apprécie, j'te r'garde, je souris comme un imbécile
 Pour te taquiner, j'te dit que t'es moche mais la vérité c'est qu't'es un missile
 
-[Pré-refrain]
 C'qu'il faut là où il faut (Partout), après toi, y a pas mieux (Bah ouais)
 Dis-moi qu'tu m'aimes (Dis-moi qu'tu m'aimes) et regardes moi dans les yeux
 
-[Refrain]
 Dis-moi qu'tu m'aimes (Dis-moi qu'tu m'aimes)
 Ouais, ouais, dis-moi qu'tu m'aime (Ouais, ouais, dis-moi qu'tu m'aimes)
 J'suis un voyou d'la tess qui a besoin d'amour, dis-moi qu'tu m'aimes (Dis-moi qu'tu m'aimes)
@@ -52,4 +44,4 @@ Ouais, ouais, dis-moi qu'tu m'aime (Ouais, ouais, dis-moi qu'tu m'aimes)
 J'suis un voyou d'la tess qui a besoin d'amour, dis-moi qu'tu m'aimes (Dis-moi qu'tu m'aimes)
 Dis-moi qu'tu m'aimes (Dis-moi qu'tu m'aimes)
 Ouais, ouais, dis-moi qu'tu m'aime (Ouais, ouais, dis-moi qu'tu m'aimes)
-À deux-cent cinquante, une femme et des enfants au bout du tunnel (Au bout du tunnel)28Embed
+À deux-cent cinquante, une femme et des enfants au bout du tunnel (Au bout du tunnel)

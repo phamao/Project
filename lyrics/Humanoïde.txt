@@ -1,6 +1,4 @@
-173 ContributorsHumanoïde Lyrics[Paroles de "Humanoïde"]
 
-[Couplet 1]
 Est-ce que tu t'es d'jà fait rabaisser par celle que t'aimais secrètement ?
 Gentille en privé mais, d'vant les gens, cruelle et légère
 Est-ce que t'as d'jà tapé quelqu'un juste pour qu'on te respecte ?
@@ -49,7 +47,6 @@ J'ai pas b'soin d'ça pour m'exprimer quand j'vois des pauvres sur la chaussée
 J'connais les tafs de merde, les potes qui partent, le shit dans la chaussette
 J'me suis longtemps d'mandé...
 
-[Couplet 2]
 J'viens d'un monde où même les morts sont à vendre, j'avance car l'avenir m'attire
 Et j'réponds aux questions du morceau d'avant par l'affirmative
 Personne pour alléger nos peines, tu f'rais quoi à notre place ?
@@ -76,12 +73,10 @@ Obligé d's'enterrer dans l'son, trouver une putain d'raison d'vivre
 J'ai frappé dans les murs, mais ça résonne vide
 C'est pour les gosses à l'allure bizarre, les voleurs, les Elephant Man
 Les mecs instables qu'ont des putains d'valeurs mais les défendent mal, humanoïde
-[Pont 2]
 Entrer dans ce monde plat nous dessert ; j'plane, est-ce le désir ?
 J'ai peur que d'moi car le sage n'est pas d'ce qui craint le sabre
 Écrivain le soir, j'rappe sur les dunes pendant des heures
 Un petit grain de sable, la solitude m'inspire des airs
-[Couplet 3]
 Et j'entends tout ce rap dans mon crâne, comme des mantras qui m'entravent
 Et, même quand on montera, y'a toujours quelque chose qui manquera
 Tant que j'continuerai à reculer pour compter mes pas
@@ -108,11 +103,9 @@ Meurtri comme un ermite, je ne décris que l'éternité
 Putride devient l'esprit qu'on a pétri de modernité
 Je ne vois que des vitrines mais, ce qui brille, nous le ternissons
 Des crises, des crimes, des cris, des griffes que nous vernissons
-[Pont 3]
 C'est pour les cyborgs défectueux, les Elephant Man
 Les mecs instables qu'ont des putains d'valeurs mais les défendent mal, humanoïde
 
-[Outro]
 Comme si ça pouvait m'porter malheur de croire à mon propre bonheur
 Je crois qu'ça m'fait peur tellement j'ai souffert
 Encore un texte rempli d'aveux, pour toi, si l'amour rend aveugle
@@ -120,4 +113,4 @@ Pourquoi l'ai-je embrassée les yeux ouverts ?
 Comme si ça pouvait m'porter malheur de croire à mon propre bonheur
 Je crois qu'ça m'fait peur tellement j'ai souffert
 Encore un texte rempli d'aveux, pour toi, si l'amour rend aveugle
-Pourquoi l'ai-je embrassée les yeux ouverts ?74Embed
+Pourquoi l'ai-je embrassée les yeux ouverts ?

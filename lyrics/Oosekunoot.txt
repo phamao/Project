@@ -1,4 +1,3 @@
-3 ContributorsOo se kun oot Lyrics[Chorus]
 Oo se kun oot
 Mä haluun oppii sut
 Ei kukaan täällä kai oo kokonainen
@@ -6,7 +5,6 @@ Oo se kun oot
 Hei mikä rikkoi sut
 En oo sellainen kuin muut mua ennen
 
-[Verse 1: Sanni]
 Aamuneljältä raahaudun himaan
 Duuni veny enkä saanu taksia
 Sori jos oot joutunu venaa
@@ -16,12 +14,10 @@ En haluu että heräät mun takia
 Mut istut sängyllä ja alat tinkaa
 Mis oon ollu ja kenen kanssa
 
-[Bridge]
 Mä en jaksaisi tapella
 Mut haluun kuulla mikä painaa
 Anna tulla beibi nyt sit valvotaan
 
-[Chorus]
 Oo se kun oot
 Mä haluun oppii sut
 Ei kukaan täällä kai oo kokonainen
@@ -38,12 +34,10 @@ Vaikka tiedän että osaan loukata
 Tässä talossa ei valot sammu
 Ennen ku oot taas mun lusikka
 
-[Bridge]
 Anna mun olla se
 Joka naarmusi nuolee
 Rakastaa niin et naapurit kuulee
 
-[Chorus]
 Oo se kun oot
 Mä haluun oppii sut
 Ei kukaan täällä kai oo kokonainen
@@ -51,7 +45,6 @@ Oo se kun oot
 Hei mikä rikkoi sut
 En oo sellainen kuin muut mua ennen
 
-[Verse 3: Paperi-T]
 Mä en tarvii yhtään enempää ihastelua
 Koko yö kiihkeetä vihastelua
 Oo se kun oot
@@ -65,7 +58,6 @@ Enkä pysty mitään takaa
 Pitää eka olla solmus ennen ku joku voi avaa
 Sä voit tehä mulle iha mitä haluut
 Ota mut niin et koko Helsinki tajuu
-[Chorus]
 Oo se kun oot
 Mä haluun oppii sut
 Ei kukaan täällä kai oo kokonainen

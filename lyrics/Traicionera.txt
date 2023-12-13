@@ -1,22 +1,17 @@
-11 ContributorsTraicionera Lyrics[Letra de "Traicionera"]
 
-[Intro]
 Sebastián Yatra
 Yatra, Yatra
 
-[Verso 1]
 Tú me dices que no es cierto que te mueres por mí
 Si es verdad que no te gusto no te acerques así
 Me dijeron que te encanta que se mueran por ti
 Buscando al que se enamora para hacerlo sufrir
 
-[Pre-Coro]
 Si me dices que me amas no te voy a creer, no
 Tú me dices que me quieres y no puedes ser fiel, no
 Me dejaste manejando solo y triste mujer, no
 Te confieso si lo quieres saber, si lo quieres saber, yeh
 
-[Coro]
 Traicionera, no me importa lo que tú me quieras
 Mentirosa, sólo quieres que de amor me muera
 Traicionera, en mi vida fuiste pasajera
@@ -35,13 +30,11 @@ Cuando estás cerca de mí no es fácil
 Y es que la vida se volvió difícil
 Sólo por ti
 
-[Pre-Coro]
 Si me dices que me amas no te voy a creer, no
 Tú me dices que me quieres y no puedes ser fiel, no
 Me dejaste manejando solo y triste mujer, no
 Te confieso si lo quieres saber, si lo quieres saber
 
-[Coro]
 Traicionera, no me importa lo que tu me quieras
 Mentirosa, solo quieres que de amor me muera
 Traicionera, en mi vida fuiste pasajera
@@ -49,11 +42,9 @@ Mentirosa, no me importa que de amor te mueras
 
 Ohh, ohh
 Mentirosa, no me importa que de amor te mueras
-[Puente]
 Tú me dices que no es cierto que te mueres por mi
 Si es verdad que no te gusto no te acerques así
 
-[Coro]
 Traicionera, no me importa lo que tú me quieras
 Mentirosa, sólo quieres que de amor me muera
 Traicionera, en mi vida fuiste pasajera
@@ -64,6 +55,5 @@ Mentirosa, no me importa que de amor te mueras
 Ohh, ohh
 Mentirosa, no me importa que de amor te mueras
 
-[Outro]
 Sebastian Yatra
-Yatra, Yatra2Embed
+Yatra, Yatra

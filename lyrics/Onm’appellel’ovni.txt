@@ -1,13 +1,10 @@
-36 ContributorsOn m’appelle l’ovni Lyrics[Paroles de "On m'appelle l'ovni"]
 
-[Intro]
 On m'appelle l'ovni
 On m'appelle l'ovni
 On m'appelle l'ovni
 On m'appelle l'ovni
 On m'appelle l'ovni
 
-[Couplet 1]
 J'suis parti, j'squatte plus le béton
 J'aide mes potes qui sont bés-tom
 Je sers, que ça retourne son veston
@@ -21,7 +18,6 @@ Pleure pas rigole, oh oh (l'ovni)
 J'ai ma team, pour ça qu'j'm'en tape de la promo' (l'ovni)
 J'ai la rime, je peux y arriver, ça serait beau (l'ovni)
 
-[Refrain]
 Je cours après le temps, je suis loin de tout
 Que ils parlent de moi, ils me cassent les couilles
 Je suis dans l'insomnie (on m'appelle l'ovni)
@@ -40,18 +36,15 @@ Ils m'critiquent
 Oh le bâtard que il chenef, il s'attarde et ouais
 Fais le signe Jul sans plaque quand tu grilles le radar (l'ovni)
 
-[Pont]
 La galère, oui, on l'a connue
 Couteau dans la plaie, ils aimeraient qu'on remue (l'ovni)
 T'es un deuhman, je te donne un faux num'
 Non (l'ovni)
 
-[Refrain]
 Je cours après le temps, je suis loin de tout (l'ovni)
 Que ils parlent de moi, ils me cassent les couilles (l'ovni)
 Je suis dans l'insomnie (on m’appelle l'ovni)
 Je suis dans l'insomnie (on m’appelle l'ovni)
-[Pont]
 On m’appelle l'ovni
 On m’appelle l'ovni
 Je cours après le temps, je suis loin de tout
@@ -59,17 +52,15 @@ Que ils parlent de moi, ils me cassent les couilles
 Je suis dans l'insomnie (on m’appelle l'ovni)
 Je suis dans l'insomnie (on m’appelle l'ovni)
 
-[Refrain]
 Je cours après le temps, je suis loin de tout (l'ovni)
 Que ils parlent de moi, ils me cassent les couilles (l'ovni)
 Je suis dans l'insomnie (on m’appelle l'ovni)
 Je suis dans l'insomnie (on m’appelle l'ovni)
 
-[Outro]
 On m'appelle l'ovni
 On m'appelle l'ovni
 On m'appelle l'ovni
 On m'appelle l'ovni
 On m'appelle l'ovni
 On m'appelle l'ovni
-L'ovni3Embed
+L'ovni

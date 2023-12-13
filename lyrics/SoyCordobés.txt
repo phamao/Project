@@ -1,6 +1,4 @@
-5 ContributorsSoy Cordobés Lyrics[Letra de "Soy Cordobés"]
 
-[Verso 1]
 Oigan señores, yo les quiero así contar
 Con muchísima emoción donde nació mi canto
 Chispa, tonada, piano, bajo y acordeón
@@ -11,7 +9,6 @@ Soy de la universidad de la alegría y el canto
 Le dieron música, alegría a mi ciudad
 Soy de la universidad, Córdoba, te quiero tanto
 
-[Estribillo 1]
 Soy cordobés, me gusta el vino y la joda
 Y lo tomo sin soda porque así pega más, pega más, pega más
 Soy cordobés y me gustan los bailes
@@ -43,7 +40,6 @@ Y el martes encaravanados otra vez
 Hay que lustrar los pepes
 Porque a algún lado nos vamos
 
-[Estribillo 2]
 Soy cordobés, me gusta el vino y la joda
 Y lo tomo sin soda, porque así pega más, pega más, pega más
 Soy cordobés y me gustan los bailes
@@ -53,12 +49,10 @@ O en Jardín Espinosa a Talleres tu lo ves
 Y si querés yo te llevo para Alberdi
 Donde están los celestes, mi Pirata cordobés
 
-[Refrán]
 De la ciudad de las mujeres más lindas
 Del fernet, de la birra, madrugadas sin par
 Soy cordobés, y no me importa si es gorda
 Como el arco de Córdoba, la quiero para bailar
-[Estribillo 1]
 Soy cordobés, me gusta el vino y la joda
 Y lo tomo sin soda porque así pega más, pega más, pega más
 Soy cordobés y me gustan los bailes
@@ -68,6 +62,5 @@ Del fernet, de la birra, madrugadas sin par
 Soy cordobés y ando sin documento
 Porque llevo el acento–
 
-[Outro]
 El acento lo llevo como una marca registrada
 De, de Córdoba capitalEmbed

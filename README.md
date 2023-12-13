@@ -38,13 +38,17 @@ This project uses data collected and published on [Kaggle](https://www.kaggle.co
 
 ## To Do
 
-Regex to remove any \[...\] from songs that announces verses/intros/outros.
+**This README was last updated on 12/12/2023**.
 
-Remove embeds at the end of every set of lyrics.
+- ~~Regex to remove any \[...\] from songs that announces verses/intros/outros~~ **Solved 12/12/2023** 
 
-Remove first lines from every set of lyrics, since it contains the song title and useless text.
+- ~~Remove embeds at the end of every set of lyrics~~ **Solved 12/12/2023**
 
-Lemmatize only wordclouds.
+- ~~Remove first lines from every set of lyrics, since it contains the song title and useless text~~ **Solved 12/12/2023**
+
+- ~~`clean_lyrics.py` documentation~~ **Solved 12/12/2023**
+
+- Lemmatize only wordclouds
 
 ## Files
 
@@ -81,6 +85,10 @@ Although these files are not included in this repository, they are required. `ar
 #### `bigrams_collocations.py`
 
 `bigrams_collocations.py` is a Python script that sorts the song/lyric list of tuples into bigrams and collocations.
+
+#### `clean_lyrics.py`
+
+`clean_lyrics.py` is a Python script that cleans all the text files in the `lyrics/` directory of unecessary text.
 
 #### `collect_data.py`
 

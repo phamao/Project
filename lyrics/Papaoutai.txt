@@ -1,6 +1,4 @@
-125 ContributorsTranslationsPortuguêsItalianoالعربيةΕλληνικάEnglishDeutschPapaoutai Lyrics[Paroles de "Papaoutai"]
 
-[Couplet 1]
 Dites-moi d'où il vient
 Enfin je saurai où je vais
 Maman dit que lorsqu'on cherche bien
@@ -11,7 +9,6 @@ Maman dit "travailler c'est bien"
 Bien mieux qu'être mal accompagné
 Pas vrai ?
 
-[Pont]
 Où est ton papa ?
 Dis-moi où est ton papa ?
 Sans même devoir lui parler
@@ -22,7 +19,6 @@ Dis-moi où es-tu caché ?
 Compté mes doigts
 Hey !
 
-[Refrain]
 Où t'es, papaoutai ?
 Où t'es, papaoutai ?
 Où t'es, papaoutai ?
@@ -52,7 +48,6 @@ Faire au moins mille fois qu'on a
 Bouffé nos doigts
 Hey !
 
-[Refrain]
 Où t'es, papaoutai ?
 Où t'es, papaoutai ?
 Où t'es, papaoutai ?
@@ -63,7 +58,6 @@ Où t'es, papaoutai ?
 Où t'es, où t'es où, papaoutai ?
 Où t'es
 Où t'es...
-[Pont]
 Où est ton papa ?
 Dis-moi où est ton papa ?
 Sans même devoir lui parler
@@ -83,7 +77,6 @@ Dis-moi où es-tu caché ?
 Compté mes doigts
 Hey !
 
-[Refrain]
 Où t'es, papaoutai ?
 Où t'es, papaoutai ?
 Où t'es, papaoutai ?
@@ -93,4 +86,4 @@ Où t'es, papaoutai ?
 Où t'es, papaoutai ?
 Où t'es, où t'es où, papaoutai ?
 Où t'es
-Où t'es...196Embed
+Où t'es...

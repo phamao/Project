@@ -1,9 +1,7 @@
-2 ContributorsHukutaan Lyrics[Chorus]
 Ilman sua mä oisin matkal kohti pohjaa
 Pidä must, pidä must, pidä must kii tai hukutaan
 (Lindeman)
 
-[Verse 1: Arttu Lindeman]
 Kato mua tai kato meit
 Ilman tollast nappisilmää
 Meikä olis varmaa hakoteil
@@ -14,7 +12,6 @@ Eikä kenenkään perässä ikinä saa juosta hikipääs
 Ei toista pidä ripittää, sitä pitää silittää
 Ja kun et luovuta, oon varma et yksin et ikin jää
 
-[Pre-Chorus]
 Pelkään herääväni huomen siihen
 Että mulla ei oo kohta enää tollast
 Kuka vastatuules vieres seisos
@@ -32,7 +29,6 @@ Ethän säkään yksin pysyis pinnalla
 Pliis, pidä must, pidä must, pidä must kii
 Tai hukutaan
 
-[Verse 2: Arttu Lindeman]
 Ei osata ajoissa käydä nukkumaan
 Entä alkaaks ne kolme sanaa joskus vielä puuduttaa?
 Tytöt kattoo Lindee
@@ -43,7 +39,6 @@ Mut vielä siistimpää et kukaan tästä mitään tiiä
 Aallois kellutaa ja meillä hyvin kulkee
 Mä yksin pidän sut pinnal jos meidän patja puhkee
 
-[Pre-Chorus]
 Koska sä oot outo
 Sä oot spessu ja mä oon valmis vihdoin sitoutuu
 Sus on kaikki mitää tarvii
@@ -53,7 +48,6 @@ Pinnan alla ollaan sun kaa, happi lopu koskaa
 Tarvii turvaa, tarviin jonku joka pystyy
 Nostaa mut ylös sielt et pysyn elossa
 Ei mua enää pelota
-[Chorus]
 Ilman sua mä oisin matkal kohti pohjaa
 Pidä must, pidä must, pidä must kii
 Pelkään et hukutaan
@@ -62,4 +56,4 @@ Pliis, pidä must, pidä must, pidä must kii
 Tai hukutaan
 
 Pidä must, pidä must, pidä must kii
-Tai hukutaan1Embed
+Tai hukutaan

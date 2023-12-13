@@ -1,6 +1,4 @@
-42 ContributorsJ’fais mes affaires Lyrics[Paroles de "J’fais mes affaires"]
 
-[Couplet 1 : Djadja]
 Ouais, faut bien qu'on pense à plus tard
 Chez moi, tous les chemins mènent au shtar
 Tu veux que j'fasse quoi, à part brûler l'cellophane ?
@@ -17,7 +15,6 @@ Téma l'parcours, dans quelques temps, on sera partout
 Dans quelques temps, on sera partout, ta racli en partouze
 J'vide les cartouches, on s'donne rendez-vous à la source
 
-[Refrain : Djadja et Dinaz]
 J'fais que tourner, j'enchaîne galère sur la galère
 Fini d'zoner, j'fais mes affaires, j'fais mes affaires
 J'fais que tourner, j'enchaîne galère sur la galère
@@ -43,7 +40,6 @@ J'viendrai t'arroser devant ton verre de rosé
 J'm'en tape d'tes conseils, là, j'me fais courser
 J'passe la sixième, ils s'retrouvent dans l'fossé
 
-[Refrain : Djadja et Dinaz]
 J'fais que tourner, j'enchaîne galère sur la galère
 Fini d'zoner, j'fais mes affaires, j'fais mes affaires
 J'fais que tourner, j'enchaîne galère sur la galère
@@ -62,7 +58,6 @@ C'est vue sur la mer ou la merde
 Si j'm'évade, avec moi, j'prends tous mes frères
 Là, j'suis dans l'bât', on s'est déclarés la guerre
 On s'est déclarés la guerre
-[Outro : Djadja et Dinaz]
 Poto, j'consomme
 Ma barre se réveille pour les grosses sommes
 Faut qu'tu m'conseilles
@@ -70,4 +65,4 @@ J'resterai avec toi si tu m'consoles
 Poto, j'consomme
 Ma barre se réveille pour les grosses sommes
 Faut qu'tu m'conseilles
-J'resterai avec toi si tu m'consoles3Embed
+J'resterai avec toi si tu m'consoles

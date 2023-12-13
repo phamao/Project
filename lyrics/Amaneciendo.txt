@@ -1,8 +1,3 @@
-2 ContributorsAmaneciendo Lyrics[Letra de "Amaneciendo"]
-
-[Intro]
-(Estoy dando en vueltas en círculos)
-Estoy dando en vueltas en círculos
 Estoy cambiando mis círculo
 Cuido mis tiempos, mis vínculos
 Cuido mi templo más íntimo (Intimo)
@@ -10,7 +5,6 @@ Dimos lo máximo estando en lo mínimo
 Lo repito por si antes no fue nítido
 Emociones fluyen como un líquido, líquido
 
-[Verso]
 Tan espeso y tan ligero, lo bueno y lo malo
 Cuando doy algo bueno no espero nada a cambio
 Desinteresado, pero también soy humano
@@ -20,7 +14,6 @@ Mucho menos si lo había ganado
 No importa ahora si te miran raro
 Tu cora', tu cora' y tu cofre es caro (Caro)
 
-[Pre-Estribillo]
 Enmarcado lo oscuro
 No aclare' más planes
 Me salen, más vale
@@ -42,6 +35,5 @@ Lo seguís siendo, y no lo entiendo
 Pero me acuerdo que nos amamos cuando estaba }
 Amaneciendo
 
-[Outro]
 (No amamos cuando estaba amaneciendo)
 Wow, awesomeEmbed

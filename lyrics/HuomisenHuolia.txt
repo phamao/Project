@@ -1,4 +1,3 @@
-1 ContributorHuomisen Huolia Lyrics[Verse 1: Spekti]
 Je, ha
 Sun kanssas unohtuu huomisen duunikelat
 Just kun Kreikan velat
@@ -9,13 +8,11 @@ Painaa suudelman kylmään kaulaasi
 Tää on meidän kahden ikioma tie
 Kunnes viikatemies meidät vie
 
-[Chorus: Tasis]
 Pakkohan se on juoda kun korkki avattiin
 Mä helpotuksest huokaan‚ vihdoin taas tavattiin
 Ja vuokses vaikka kuolla mä voisin varmaankin
 Mut ne on huomisen huolia vaan
 
-[Verse 2: Spekti]
 Sä tunnet mut
 Osaat mua lukea
 Ilot ja surut toistemme tukena
@@ -40,10 +37,8 @@ Mä helpotuksest huokaan, vihdoin taas tavattiin
 Ja vuokses vaikka kuolla mä voisin varmaankin
 Mut ne on huomisen huolia vaan
 
-[Post-Chorus]
 Huomisen huolia vaan
 
-[Bridge: Spekti]
 Sä teet mut onnelliseksi
 Tai ainakin ohikiitäväksi hetkeksi
 Me voidaan miettii muita asioita huomenna
@@ -59,7 +54,6 @@ On onni mulla ain’
 Sä musta orjan teit
 Enkä irti päästäis vaik se hengen veis
 
-[Chorus: Tasis]
 Pakkohan se on juoda kun korkki avattiin
 Mä helpotuksest huokaan, vihdoin taas tavattiin
 Ja vuokses vaikka kuolla mä voisin varmaankin

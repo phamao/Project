@@ -1,6 +1,3 @@
-21 ContributorsElle et l’autre Lyrics[Paroles de "Elle et l'autre"]
-
-[Couplet 1]
 J’aime celle qui sent bon, qui sort d’la douche
 Pas celle qui m’gratte, qui sent d’la bouche
 J’l’aime naturelle, sans rouge à lèvres
@@ -18,7 +15,6 @@ L’autre elle veut pas, elle préfère le hood
 Elle, la galère elle veut pas la voir
 L’autre tue sa vie dans les parloirs
 
-[Refrain]
 Elle, a fini aux bords des larmes
 L’autre, s’est sentie abandonnée
 Elle, c’est la beauté qui fait son charme
@@ -43,7 +39,6 @@ L’autre a les crocs, elle sort d’la MAF
 Elle askip elle raconte sa life
 Elle raconte sa life
 
-[Refrain]
 Elle, a fini aux bords des larmes
 L’autre, s’est sentie abandonnée
 Elle, c’est la beauté qui fait son charme
@@ -52,6 +47,5 @@ Elle, a fini aux bords des larmes
 L’autre, s’est sentie abandonnée
 Elle, c’est la beauté qui fait son charme
 L’autre, c’est tout c’qu’elle peut donner
-[Outro]
 Elle, a fini aux bords des larmes
-L’autre, s’est sentie abandonnée1Embed
+L’autre, s’est sentie abandonnée

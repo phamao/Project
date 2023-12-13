@@ -1,10 +1,8 @@
-1 ContributorPolte (Vain elämää kausi 5) Lyrics[Pre-Chorus]
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 
-[Verse 1]
 Kuuntelee, mua tähtitaivas täällä kuuntelee
 Kun huudan ääneen, miksi pois ei mee
 Hurja polte pohjaton
@@ -12,13 +10,11 @@ Haalenee, vaik vuosi vuodelta vain haalenee
 Se rauta rintaa silti raatelee
 Yksinäinen yöni on
 
-[Pre-Chorus]
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 
-[Chorus]
 Kiihkeyttä kuumaa
 Hulluutta huumaa
 Sait mut tuntemaan
@@ -31,13 +27,11 @@ Kai siitä haaveilen mä vieläkin
 Kun tässä istun silmin polttavin
 Hehkuvan sun tahtoisin
 
-[Pre-Chorus]
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 
-[Chorus]
 Kiihkеyttä kuumaa
 Hulluutta huumaa
 Sait mut tuntemaan
@@ -45,12 +39,10 @@ Katso mua pitkään
 Miksi sytytitkään roihun riehumaan
 Silloin aikanaan
 
-[Pre-Chorus]
 Huudan ääneen mut se pois еi mee
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee
 Huudan ääneen mut se pois ei mee, pois ei mee, pois ei mee
-[Chorus]
 Kiihkeyttä kuumaa
 Hulluutta huumaa
 Sait mut tuntemaan
@@ -58,7 +50,6 @@ Katso mua pitkään
 Miksi sytytitkään roihun riehumaan
 Silloin aikanaan
 
-[Outro]
 Kuuntelee
 Mua tähtitaivas täällä kuuntelee
 Kun huudan ääneen, miksi pois ei mee

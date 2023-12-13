@@ -1,4 +1,3 @@
-5 ContributorsValitsemaanne numeroon Lyrics[Verse 1: Matti8]
 Oon mä kadottanu itteni vai
 Onks tää sitä kehityst?
 Meil on niin eri setit nyt
@@ -29,7 +28,6 @@ Sul on paha tapa laittaa luuri kii
 Valitsemaanne numeroon ei juuri nyt saada yhteyttä
 Valitsemaanne numeroon ei juuri nyt saada yhteyttä
 
-[Verse 2: Vesta]
 Sun viereltä kerällä oli helppo herätä
 Kunnes aloit vaiheilee
 Ymmärrän et tunteet on vaikea asia
@@ -39,7 +37,6 @@ Jos ei kykene viemään kunnial loppuun
 Vähitellen tajuun ettet takas tuu
 Ku et kykene viemään kunnial loppuun
 
-[Verse 3: Matti8]
 Mä tiesin ettet sä käsitä
 Tää ei oo enää mun käsissä
 Selitän itelleni et mä en vastaa sulle vaan koska mä välitän
@@ -48,11 +45,9 @@ Soittarit kakofonisii
 Täs on tunteet vähissä
 Se on sä, mä, mitä siin välissä?
 
-[Hook: Vesta]
 Sul on paha tapa olla vastaamatta kysymyksiin
 Sul on paha tapa laittaa luuri kii
 Valitsemaanne numeroon ei juuri nyt saada yhteyttä
 Valitsemaanne numeroon ei juuri nyt saada yhteyttä
-[Outro: Vesta]
 Kun et vastaa se satuttaa
 En kai mä kuolleelle soitteleEmbed

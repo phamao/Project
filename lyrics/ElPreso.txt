@@ -1,12 +1,8 @@
-8 ContributorsEl Preso Lyrics[Letra de "El Preso"]
-
-[Intro]
 Oye, te hablo desde la prisión
 Wilson Manyoma, hormona
 ¡Ébaya!
 ¡Y dice!
 
-[Verso 1]
 En el mundo en que yo vivo
 Siempre hay cuatro esquinas
 Pero entre esquina y esquina
@@ -14,7 +10,6 @@ Siempre habrá lo mismo
 Para mí no existe el cielo ni luna ni estrellas
 Para mí no alumbra el Sol, pa' mí todo e' tinieblas
 
-[Coro 1]
 Ay, ay, ay, qué negro es mi destino
 Ay, ay, ay, todo' de mí se alejan
 Ay, ay, ay, perdí toda esperanza
@@ -23,7 +18,6 @@ Ay, adiós, solo llegan mis quejas
 Te hablo desde aquí, Kike Triunfante
 ¡Ébaya!
 
-[Verso 2]
 Condenado para siempre
 En esta horrible celda
 Donde no llega el cariño
@@ -42,9 +36,7 @@ Con este lamento, doctor Villanueva
 ¡Como!
 ¡Y vuelve otra vez!
 
-[Instrumental]
 
-[Pregón]
 Ay, qué sólo estoy, solo me espera la muerte
 Ay, qué solo estoy, ¿cuándo cambiará mi suerte
 Con esta triste soledad
@@ -57,12 +49,10 @@ Compañeros de prisión
 Gente de todas las clases
 Que no tienen corazón
 Y no saben lo que hacen
-[Puente]
 Sólo con mi pena
 Sólo en mi condena
 Sólo con mi pena
 Sólo en mi condena
 
-[Outro]
 Oye, Fruko solo voy con mis penas
 En esta celda, treinta años de condena, ayEmbed

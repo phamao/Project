@@ -1,6 +1,3 @@
-100 ContributorsGalatée Lyrics[Paroles de "Galatée"]
-
-[Intro]
 Nanana nana
 Nanana
 Nanana (Yeah)
@@ -8,13 +5,11 @@ Nanana
 Nanana nana
 Qu'est-ce qu'elle fout ?
 
-[Refrain]
 Le café vient de fermer mais j'suis devant, j'reste
 Quelle idée d'aimer une femme à l'humeur vengeresse ?
 La dernière fois, j't'ai mis un plan, pas d'quoi péter un plomb
 Mais tu viens d'une ville dangereuse qui te vend l'stress
 
-[Couplet 1]
 Je serai fair-play, si je feins d'être énervé, c'est pour te faire plaisir et je me pencherai, me moquant de ton air boudeur
 Pour m'emmerder, t'allumeras un joint d'herbe ou deux
 Tu joueras l'insoumise mais tes mots m'affectent pas
@@ -22,7 +17,6 @@ J'obtiendrai ton sourire, le seul témoin d'ma victoire
 Je tiendrai tes oreilles pour les empêcher d'se sauver
 J'te dirai : "y a d'la meuf dans cette soirée" mais moi, j'ai vu qu'toi (toi)
 
-[Pont 1]
 Ton corps dans ma rétine, c'est sensoriel
 Sincèrement, elle pourra pas nous essorer, la routine
 En face de moi, y a des types fonce-dé en bas du bloc
@@ -35,7 +29,6 @@ Quelle idée d'aimer une femme à l'humeur vengeresse ?
 La dernière fois, j't'ai mis un plan, pas d'quoi péter un plomb
 Mais tu viens d'une ville dangereuse qui te vend l'stress
 
-[Couplet 2]
 Tu me diras non quand j'te demanderai si tu m'aimes
 Et c'est un "non" bien plus précieux qu'un "oui"
 J'te comprends pas mais j'ai tes yeux pour sous-titrer
@@ -54,13 +47,11 @@ Mais t'es toujours pas là et le jour s'étire
 J'commence vraiment à m'inquiéter pour toi, le sais-tu ?
 Aujourd'hui, c'est dur, demain, c'est pire
 Et ta jalousie me donne envie de toutes les séduire
-[Pont 2]
 Mais je reste fidèle par respect, ça, je l'ai juré
 T'es la seule qui me paraît spéciale, tous les jours alors
 Je reste fidèle par respect, ça, je l'ai juré
 T'es la seule qui me paraît spéciale (Toi)
 
-[Couplet 3]
 Tu jet'ras mes affaires encore et tout c'qui pourrait traîner
 Même un livre que je t'ai prêté, j'ai un visage pour être aimé
 Tu m'as dit : "Quand est-c'que tu vas t'arrêter d'idéaliser l'amour dans les livres tout en me négligeant ?"
@@ -75,12 +66,10 @@ Une plaisante rivalité, jusqu'à c'qu'on arrive au lit
 Tu vois, j'te connais par cœur
 À croire qu'les embrouilles, je les cherche mais pour l'instant, j'me les gèle et je regarde l'heure
 
-[Refrain]
 Le café vient de fermer mais j'suis devant, j'reste
 Quelle idée d'aimer une femme à l'humeur vengeresse ?
 La dernière fois, j't'ai mis un plan, pas d'quoi péter un plomb
 Mais tu viens d'une ville dangereuse
-[Couplet 4]
 Tu voulais plus t'poser, t'avais tout fait pour t'aguerrir beauté
 Mais moi, j'ai tout fait pour t'acquérir
 On aime pleurer autant que rire, pourquoi fallait-il qu'on pose cette base ?
@@ -93,4 +82,4 @@ Espèce de lâche, rassure-toi en te disant que c'est la vie et que toute façon
 Le café vient de fermer, tu ne viendras plus
 Je sens le dernier métro gronder sous mes pattes
 Quelle idée d'aimer cette femme qu'on ne soumet pas ?
-C'est plutôt nul comme fin, en plus ça nique le r'frain19Embed
+C'est plutôt nul comme fin, en plus ça nique le r'frain

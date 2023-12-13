@@ -4,7 +4,6 @@ from dotenv import load_dotenv
 import os
 import pathlib
 import re
-import time
 
 load_dotenv()
 

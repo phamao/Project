@@ -1,6 +1,4 @@
-2 ContributorsVahinko Lyrics["Vahinko" sanat]
 
-[Verse 1]
 Popcornia mun paidalla
 Herään keittiön lattialta
 Mun ruudulla
@@ -12,7 +10,6 @@ Toivon et sul ei
 Ois iigeet
 Mmmh
 
-[Chorus]
 Jos haluut testaa mua yhen kerran vaan
 Mulla on mesta mihin mennä
 Siellä on kaapissa pari Coronaa
@@ -34,7 +31,6 @@ Kaikil on kauheasti kaikkee
 Toivon et teillä on vaikeet
 Mmmh
 
-[Chorus]
 Jos haluut testaa mua yhen kerran vaan
 Mulla on mesta mihin mennä
 Siellä on kaapissa pari Coronaa
@@ -46,7 +42,6 @@ Vahinko
 Va -va-vahinko
 Eeh
 
-[Bridge]
 Joo mä vihaan rakkauslauluja
 Ilman niitä tää ois iisii
 Mä olin ihan tarpeeks hajalla
@@ -56,7 +51,6 @@ Eotka ei jää nimimuistiin
 Ehkä me ei koskaan tunneta
 Ooh, mut silti
 
-[Chorus]
 Jos haluut testaa mua yhen kerran vaan
 Mulla on mesta mihin mennä
 Siellä on kaapissa pari Coronaa

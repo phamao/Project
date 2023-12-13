@@ -1,9 +1,7 @@
-1 ContributorKeinutaan Lyrics[Intro: VilleGalle]
 Hei se on Antti Tuisku
 Ja Jurek ja vikidi viimene VilleGalle
 2015 let's go
 
-[Verse 1: Antti Tuisku, VilleGalle]
 Aamu neljä eikä väsytä
 Laita vielä yksi biisi soimaan
 Hei sä siellä miks sä jumitat
@@ -11,7 +9,6 @@ Tuuppa messiin tää on helppo tanssii
 En mä osaa, boy
 Kato mua tarkkaan
 
-[Pre-Chorus: Antti Tuisku, both]
 Kädet nosta ne reippaasti ilmaan
 Pää käännä katse käsiesi suuntaan
 Heiluta puolelta toiselle vaan
@@ -21,7 +18,6 @@ Jalat rytmissä koukkuun ja ylös
 Anna sun peppusi keinua vaan
 Keinua vaan
 
-[Chorus: Antti Tuisku]
 Ja me keinutaan, keinutaan
 Eteen ja taa, taa
 En haluu lopettaa-aa
@@ -34,7 +30,6 @@ Keinutaan
 Keinutaan
 Keinu, keinu boi
 
-[Verse 2: Antti Tuisku, VilleGalle, both]
 Aamu seiska jengi nuokkuu
 Pakko laittaa vola vielä kerran kaakkoon
 Oh shit, oh shit soita se biisi
@@ -42,7 +37,6 @@ Jos et vielä tiedä kuinka tanssitaan
 Nii tässä uudestaan
 Antti kerro niille, whooh
 
-[Pre-Chorus: Antti Tuisku, VilleGalle, both]
 Kädet nosta ne reippaasti ilmaan
 Pää käännä katse käsiesi suuntaan
 Heiluta puolelta toiselle vaan
@@ -52,7 +46,6 @@ Jalat rytmissä koukkuun ja ylös
 Anna sun peppusi keinua vaan
 Keinua vaan
 
-[Chorus: Antti Tuisku, VilleGalle, both]
 Ja me keinutaan, keinutaan
 Eteen ja taa, taa
 En haluu lopettaa-aa
@@ -60,7 +53,6 @@ Keinutaan, hei tuu keinuu, keinutaan
 Mun lantio-o, pyörii niiku JLo-o, JLo
 Pyörii niiku JLo-o, pyörii niiku JLo, oh shii
 Pää, olkapää, peppu
-[Post-Chorus: Antti Tuisku, VilleGalle]
 Keinutaan
 Hei Jurek, rullaa sitä bassoo boi
 Let's go
@@ -70,7 +62,6 @@ Keinutaan
 Ana, mäki tuun joraa
 Let's go
 
-[Verse 3: VilleGalle]
 Sambaa vaakamambaa
 Lambada nii kauan ku mut kampataan
 Tiskillä tankataan likoille jankataan
@@ -80,7 +71,6 @@ Sä et oo jorannu saman suden kaa
 Se on vikidi viimene VilleGalle
 Sovitaan treffit illemmalle
 
-[Chorus: Antti Tuisku, VilleGalle]
 Ja me keinutaan, keinutaan, keinutaan, keinutaan
 Eteen ja taa, taa
 En haluu lopettaa-aa, who se pylly hylly
@@ -88,7 +78,6 @@ Keinutaan, keinutaan, keinutaan, keinutaan
 Mun lantio-o, pyörii niiku JLo-o
 Pyörii niiku JLo-o, pyörii niiku JLo
 Pää, olkapää, peppu
-[Post-Chorus: Antti Tuisku, VilleGalle]
 Sit mennää
 Turn up
 Keinutaan

@@ -1,12 +1,9 @@
-18 ContributorsSuavemente Lyrics[Letra de "Suavemente"]
 
-[Intro]
 Suavemente, bésame
 Que quiero sentir tus labios besándome otra vez
 Suavemente, bésame
 Que quiero sentir tus labios besándome otra vez
 
-[Coro]
 (Suave) Bésame, bésame
 (Suave) Bésame otra vez
 (Suave) Que yo quiero sentir tus labios
@@ -16,10 +13,8 @@ Que quiero sentir tus labios besándome otra vez
 (Suave) Besa, besa, besa, besa
 (Suave) Bésame otro ratito
 
-[Interludio]
 Pequeña, échate pa'cá
 
-[Verso 1]
 Cuando tú me besas
 Me siento en el aire
 Por eso cuando te veo
@@ -47,7 +42,6 @@ Suavemente, ¡ese coro! (Bésame)
 Es la cosa (Que yo quiero sentir tus labios)
 Besándome otra vez
 
-[Verso 2]
 (Suave) Tus labios tienen
 (Suave) Ese secreto
 (Suave) Yo beso y beso
@@ -58,9 +52,7 @@ Besándome otra vez
 (Suave) Es lo que quiero
 (Suave) ¡Dámelo!
 
-[Interludio Instrumental]
 
-[Verso 3]
 (Suave) Yo me pregunto
 (Suave) Que tienen tus besos
 (Suave) Trato de escaparme
@@ -70,9 +62,7 @@ Besándome otra vez
 (Suave) Besa, besa, besa, besa
 (Suave) Bésame otro ratito
 (Suave) ¡Dámelo!
-[Interludio Instrumental]
 
-[Coro]
 (Suave) Bésame, bésame
 (Suave) Bésame otra vez
 (Suave) Que yo quiero sentir tus labios
@@ -87,5 +77,4 @@ Besándome otra vez
 (Suave) Solamente yo te digo, una cosa quiero
 (Suave) Bésame
 
-[Outro]
-Pequeña, cógelo (Suave)8Embed
+Pequeña, cógelo (Suave)

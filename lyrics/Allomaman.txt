@@ -1,11 +1,5 @@
-59 ContributorsAllo maman Lyrics[Paroles de "Allo maman"]
-
-[Intro]
-Non, non
-Oh oui
 Non, non
 
-[Couplet 1]
 J'serai pas trop là mais tu sais, j't'aime bébé
 On a grandi mal, c’est la faute à la télé
 J’pourrai pas tout te dire c’est sûr, tu te feras des films
@@ -15,13 +9,11 @@ Nos photos portrait dans des cadres
 La solitude te f'ra des signes
 J’reviendrai, tu seras distante mais j'sais toujours te faire rire
 J’saurai toujours te faire crier, j'saurai toujours te faire pire (non, non)
-[Pont 1]
 J'aurais pas tout fait pour te perdre mais j't'ai perdu
 Heureusement qu'j'ai pas tout fait pour te plaire, c'est hyper dur
 Mais au fond j'sais que tu vas partir, m'laisser seul dans un cinq étoiles
 Encore une fois j'me dirai qu'je n'ai que ma mère
 
-[Refrain]
 Allô maman ? (allô m'man ça va ?) Ça va pas fort, j'ai peur du temps
 Allô maman ? (t'es au travail ?) J'aime pas tes rides et tes cheveux blancs
 Allô maman ? (allô maman), bobo, bobo (ça va pas fort)
@@ -42,24 +34,20 @@ Peut-être qu'il fallait que j'te retienne
 Fallait que je te prenne, fallait qu'on s'tire
 Mais maman devait vivre mieux, maman mérite un empire, ouais
 
-[Pont 2]
 J'aurai pas tout fait pour m'y perdre, j'm'y suis perdu
 Heureusement qu'j'ai pas tout fait pour m'y plaire, c'est hyper dur
 Mais au fond j'devais partir, t'laisser seule compter les étoiles
 Encore une fois, j'm'en vais faire de l'oseille
 
-[Refrain]
 Allô maman ? (allô maman) Ça va pas fort, j'ai peur du temps
 Allô maman ? (allô maman) J'aime pas tes rides et tes cheveux blancs
 Allô maman ? (allô maman) J'crois qu't'as b'soin (j'crois t'as b'soin) d'repos
 Allons-nous-en
 
-[Pont 1]
 J'aurais pas tout fait pour te perdre mais j't'ai perdu
 Heureusement qu'j'ai pas tout fait pour te plaire, c'est hyper dur
 Mais au fond tu vas partir, m'laisser seul dans un cinq étoiles
 Encore une fois j'me dirai qu'je n'ai que ma mère
-[Refrain]
 Allô maman, ça va pas fort, j'ai peur du temps
 Allô maman, j'aime pas tes rides et tes cheveux blancs
 Allô maman, bobo, bobo
@@ -69,5 +57,4 @@ Allô maman ? (allô maman) J'aime pas tes rides et tes cheveux blancs
 Allô maman ? (allô maman) J'crois qu't'as b'soin d'repos
 Allons-nous-en
 
-[Outro]
-Ouais m'man ça va ? J'te rappelle après, j'ai plein de travail... Pardon...8Embed
+Ouais m'man ça va ? J'te rappelle après, j'ai plein de travail... Pardon...

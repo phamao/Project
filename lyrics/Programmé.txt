@@ -1,10 +1,7 @@
-60 ContributorsProgrammé Lyrics[Paroles de "Programmé"]
 
-[Intro]
 Mi-homme, mi-machine
 Un putain de cyborg, imagine
 
-[Refrain 1]
 Tout est une question de volonté
 Tout est une question de volonté
 Tout est une question de volonté
@@ -14,7 +11,6 @@ Tout est une question de volonté
 Tout est une question de volonté
 Tout est une question de volonté
 
-[Couplet 1]
 En dessous d'une enseigne qui clignote
 Une pute qui renseigne les clients
 Trop malade pour allaiter
@@ -48,7 +44,6 @@ Tout est une question de volonté
 Les tentations pourraient me l’ôter
 Tu deviens violent quand t'es violenté
 Assassiné quand t'es menotté
-[Refrain 3]
 Tout est une question de volonté
 Tout est une question de volonté
 Tout est une question de volonté
@@ -57,7 +52,6 @@ Tout est une question de volonté
 Tout est une question de ...
 Tout est une question de volonté
 Tout est une question
-[Couplet 2]
 Dites au juge de pas juger ceux qu'ont manqué d'amour
 Et qui l'ont découvert sur la banquette arrière
 Cette époque est amère pour le prolétariat
@@ -72,7 +66,6 @@ Tout est une question de volonté
 Obliger de vivre dans cette société
 Mais je ne veux pas de leçons venant d'elle
 
-[Refrain 4]
 Tout est une question de volonté
 Tout est une question de volonté
 Tout est une question de volonté
@@ -82,7 +75,6 @@ Tout est une question de volonté
 Ils font la grimace devant nos têtes
 Tout est une question de volonté
 
-[Couplet 3]
 J'suis poli sur les plateaux télé, au cas où maman guette
 La lame de rasoir est planquée sous ma languette
 J'me réveille pour éteindre l'alarme et j'me rendors
@@ -101,8 +93,7 @@ Beaucoup de bouffonnes qui interfèrent
 Et la voix de mon frère à l'interphone
 Qui me dit "tu donnes trop quand tu performes"
 Je ferai tout pour qu'on m'enterre vieux
-[Outro]
 Tout est une question de volonté
 Tout est une question de volonté
 Tout est une question de ...
-Tout est une question de destinée6Embed
+Tout est une question de destinée

@@ -1,5 +1,3 @@
-4 ContributorsEnkelit Lyrics[Intro]
-Kaiken sulle annoin
 Koitin pitää mitä vannoin
 Etten koskaan
 Jättäisi sua
@@ -8,12 +6,10 @@ Nyt ei oo enää enempää
 Ja mä pyydän
 Et ymmärtäisit mua
 
-[Chorus]
 Niinku enkelit
 Vaikket mua aina nää
 Oon silti aina täällä
 
-[Verse 1]
 Kuulen sen kuin syvältä jostain
 Ääni sanoo, kuuntele sun sydäntä jos vain
 Se oisikin niin helppoo
@@ -42,7 +38,6 @@ Vaikket mua aina nää
 Oon silti aina täällä
 Oon silti aina täällä
 
-[Verse 2]
 Sitä vähemmän on happee mitä korkeemmalle lentää
 Sä sanoit mennään kovempaa, en pelkää
 Lisäsin vauhtii, noustiin taivaisiin
@@ -60,7 +55,6 @@ Oon huono hyvästeissä
 Maailman loppuun asti kirjotan yhä meistä
 Vaikka nyt mun täytyy oppii päästää irti
 Niin muista et oon aina täällä silti
-[Chorus]
 Niinku enkelit
 Mun on pakko lentää
 En voi pidempään jäädä

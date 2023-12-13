@@ -1,12 +1,9 @@
-11 ContributorsRap de Minecraft Lyrics[Letra de "Rap de Minecraft"]
 
-[Intro]
 Bueno, este es un rap de Minecraft
 Mmm
 Ya, ya, ya está empezando
 Minecraft
 
-[Verso 1]
 Yo estaba caminando ahí en Minecraft
 Y en eso me encontré un cubito
 Y no podía creerlo, hay un cubito en Minecraft
@@ -31,7 +28,6 @@ You might also like[Puente]
 Ujum, yeah
 ¡Minecraft!
 
-[Interludio]
 Minecraft
 Minecraft
 Minecraft
@@ -41,5 +37,4 @@ Minecraft
 Minecraft
 Minecraft
 
-[Outro]
-Yeah, motherfucker!6Embed
+Yeah, motherfucker!

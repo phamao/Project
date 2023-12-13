@@ -1,4 +1,3 @@
-5 ContributorsLäikkyy Lyrics[Verse 1]
 Lindemain
 Olin duunis nyt oon tääl eli tää on ihan perus kamaa
 Jengi varaslähtee vaik ne ei tavottelis etumatkaa
@@ -12,7 +11,6 @@ Mitä vittuu ne ees täällä tiputtelee?
 Junnut hifistelee, haluu vippiin inee
 Vedän överit ku olis sweet-16 bileet
 
-[Chorus]
 Kuvaan Snapchattiin
 Samalla ku mä pelaan blackjackkii
 Ei oo mitää mikä ois näin nättii
@@ -22,7 +20,6 @@ Samalla ku mä pelaan blackjackkii
 Ei oo mitää mikä ois näin nättii
 Vitun välii vaikka bisset läikkyy, bisset läikkyy
 
-[Verse 2]
 Iha semmoin fiilis, et tänää mä oon rokkistara
 Aistin jo nyt että huomisesta tulee tosi paha
 Vyökin meni rikki, meinaa housut melkeen tippuu
@@ -36,13 +33,11 @@ Oma hyvä sitä on naamaa vähän näyttää tääl
 Ei mulla järkee oo lälälää
 Ei oo aseenkantolupaa silti rätätättää
 
-[Pre-Chorus]
 Alkuillast kuulit swägii äijät ne leijuu
 Kahen aikaa samat äijät häissä ne keinuu
 Taksilta itteni himaa hiljaa talutan
 Odottelen huomista Silja-Line krapulaa
 
-[Chorus]
 Kuvaan Snapchattiin
 Samalla ku mä pelaan blackjackkii
 Ei oo mitää mikä ois näin nättii
@@ -52,13 +47,11 @@ Samalla ku mä pelaan blackjackkii
 Ei oo mitää mikä ois näin nättii
 Vitun välii vaikka bisset läikkyy, bisset läikkyy
 
-[Bridge]
 4.7 mies
 T-paita hies
 Ministerin binisterin, jäbä sä oot meitsin tiel
 On muutama juttu jotka mulle ei sovi
 Vastuu, tilipäivä ja alkoholi
-[Chorus]
 Kuvaan Snapchattiin
 Samalla ku mä pelaan blackjackkii
 Ei oo mitää mikä ois näin nättii
@@ -66,4 +59,4 @@ Mitä välii vaikka bisset läikkyy, bisset läikkyy
 Kuvaan Snapchattiin
 Samalla ku mä pelaan blackjackkii
 Ei oo mitää mikä ois näin nättii
-Vitun välii vaikka bisset läikkyy, bisset läikkyy2Embed
+Vitun välii vaikka bisset läikkyy, bisset läikkyy
