@@ -2,11 +2,13 @@
 
 This is a Python script that takes a collection of Spotify's top songs, scrapes its lyrics, and tokenizes it.
 
+**This README was last updated on 12/12/2023**.
+
 ## Installation
 
 Download the data from Kaggle in the Sources section below. Extract the contents of `archive.zip` into this directory.
 
-You will need to install the following libraries.
+You will need to install the following libraries:
 
     pip install lyricsgenius
     pip install nltk
@@ -38,17 +40,17 @@ This project uses data collected and published on [Kaggle](https://www.kaggle.co
 
 ## To Do
 
-**This README was last updated on 12/12/2023**.
+- **Solved 12/12/2023:** ~~Regex to remove any \[...\] from songs that announces verses/intros/outros~~ 
 
-- ~~Regex to remove any \[...\] from songs that announces verses/intros/outros~~ **Solved 12/12/2023** 
+- **Solved 12/12/2023:** ~~Remove embeds at the end of every set of lyrics~~
 
-- ~~Remove embeds at the end of every set of lyrics~~ **Solved 12/12/2023**
+- **Solved 12/12/2023:** ~~Remove first lines from every set of lyrics, since it contains the song title and useless text~~
 
-- ~~Remove first lines from every set of lyrics, since it contains the song title and useless text~~ **Solved 12/12/2023**
+- **Solved 12/12/2023:** ~~`clean_lyrics.py` documentation~~
 
-- ~~`clean_lyrics.py` documentation~~ **Solved 12/12/2023**
+- **Solved 12/12/2023:** ~~Lemmatize only wordclouds~~
 
-- Lemmatize only wordclouds
+- **Added 12/12/2023:** Fix some stop words not being detected (vocalizations)
 
 ## Files
 

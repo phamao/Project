@@ -1,7 +1,6 @@
 import os 
 import nltk
 from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
 import re
 
 # Prepares all lyrics in lyrics/ directory, separating it into tuples
@@ -18,15 +17,16 @@ def prepare_lyrics(directory):
     
     # Song specific stop words
     stop_words.update(['feat', 'chorus', 'verse', 'pre-chorus', 'post-chorus', 'outro', 'verso', 'refrain',
-                       'lyrics', 'intro', 'ft', 'et', 'embed', 'remix', 'archivo', 'ft.', 'EP', 'instrumental',
-                       'Khalil', 'LiveGet', 'Petrusich_DoNotSell_TX_PTR.indd'])
+                       'lyrics', 'intro', 'ft', 'et', 'embed', 'remix', 'archivo', 'ft.', 'ep', 'instrumental',
+                       'khalil', 'liveget', 'petrusich_donotsell_tx_ptr.indd', 'ticket', ])
 
     # Extremely common words that appear every time
     stop_words.update(['like', 'im', 'know', 'might', 'dont', 'got', 'also', 'oh', 'aint', 'youre', 'get',
                        'go', 'na', 'one'])
-
-    # Lemmatizer
-    lemmatizer = WordNetLemmatizer() 
+    
+    # Vocalizations
+    stop_words.update(['yeah', 'yeah yeah', 'nah nah', 'oh oh', 'la la', 'uh uh', 'na na', 'hey hey', 'eh eh',
+                       'ha ha', 'ah ah', 'um', 'ay ay']) # Most of these don't work? Copying output straight from print(wordcloud.words_.keys()) but still doesn't catch a lot
 
     for filename in os.listdir(directory):
         if filename.endswith('.txt'):
@@ -44,9 +44,6 @@ def prepare_lyrics(directory):
                 # Remove stop words
                 tokens = [token for token in tokens if token.lower() not in stop_words and 'Contributors' not in token]
 
-                # Lemmatize
-                lemmas = [lemmatizer.lemmatize(token) for token in tokens]
-
-                all_lyrics.append((title, lemmas))
+                all_lyrics.append((title, tokens))
 
     return all_lyrics

@@ -1,7 +1,3 @@
-import os
-import nltk
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
 import matplotlib.pyplot as plt
 from collections import Counter
 from prepare_lyrics import prepare_lyrics
@@ -77,7 +73,11 @@ def top20_words_frequency(num_letters, directory):
         else:
             plt.savefig('visualizations/top20freq_{num_letters}.jpg'.format(num_letters=num_letters))
 
-# ONLY RUN ONE OF THESE LOOPS AT A TIME
+
+############################################################
+# WILL ONLY SAVE THE FIRST 20 GRAPHS GENERATED
+# ONLY RUN ONE OF THESE LOOPS AT A TIME TO AVOID LOSING DATA
+############################################################
 
 # for i in range(2017, 2022):
 #     top20_words_frequency(0, str(i))

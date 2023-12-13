@@ -14,4 +14,4 @@ def megalist(tuple_list):
 
     return token_megalist
 
-print(len(megalist(prepare_lyrics('lyrics/'))))
+print('Word Count: {count}'.format(count=len(megalist(prepare_lyrics('lyrics/')))))
