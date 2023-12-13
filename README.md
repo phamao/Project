@@ -26,7 +26,7 @@ The source data is **NOT INCLUDED** in this directory due to its size. To downlo
 
 Create a [Genius API Client](https://genius.com/api-clients). Create an account if necessary, then fill in the App Name and App Website URL. You can use [localhost:6000](http://localhost:6000/) or another domain. You should now see an option to generate a Client Access Token. Click it to generate a token and copy it.
 
-In the `data/` directory, create a file called `.env`. Within this file, set `CLIENT_TOKEN = 'YOUR CLIENT ACCESS TOKEN`.
+In the `data/` directory, create a file called `.env`. Within this file, create a variable called `CLIENT_TOKEN`. Paste the token you got as its value.
 
 Contents of `.env`:
 
@@ -43,7 +43,7 @@ If you wish to begin collecting data from the first song, it is recommended to d
 
 - `known_songs.txt`: This text file tracks all the songs that have already been searched so that they will not be searched on subsequent runs. If it is not deleted, the search will begin midway through `charts.csv`, which may or may not cause issues depending on your purposes.
 
-- `lyrics/*`: Deleting all the files in the `lyrics/` directory will ensure that future searches are actually saving each song.
+- `lyrics/*`: Deleting all the files in the `lyrics/` directory will ensure that future searches are actually saving each song. If you do not, each file will be overwritten, and it will be harder to confirm if songs are being saved.
 
 - `20XX/*`: The year directories contain the songs in `known_songs.txt`; therefore, if `known_songs.txt` has been deleted and you wish to run `songs_by_year.py`, these directores should be empty.
 
@@ -56,7 +56,7 @@ Run `clean_lyrics.py` once all desired lyrics have been collected or more lyrics
 
 Since `sorted_years.txt` is too large to include in the repository, **you must run `year_sort.py` before running `songs_by_year.py`.** This is because `songs_by_year.py` directly draws from `sorted_years.txt`.
 
-`megalist.py` and `prepare_lyrics.py` both only contain helper functions, so these do not need to be individually run. Nothing will happen if you do.
+`megalist.py` and `prepare_lyrics.py` both only contain helper functions and are only called by other files in the `functions/analysis/` directory, so these do not need to be individually run. Nothing will happen if you do.
 
 
 ### Data Analysis
@@ -214,4 +214,4 @@ Text file that stores the names of all songs that have been searched already; th
 
 ### `sorted_years.txt`
 
-Text file contains each song in `charts.csv` by year. It is NOT contained in this repository due to its size and must be generated using `song_years.py`.
+Text file contains each song in `charts.csv` by year. It is **NOT** contained in this repository due to its size and must be generated using `song_years.py`.
