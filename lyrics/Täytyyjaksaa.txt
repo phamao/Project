@@ -1,3 +1,5 @@
+Elämä on kun spinningtunti
+Noi tarvii vetäjän eteen
 Et ne tajuu mitä ne täällä tekee
 Ne polkee polkee, sä voit johtajaa seuraa
 Tai ite ohjata keulaa
@@ -61,4 +63,4 @@ Monitori, ori, kori, matofoni, Clyde & Bonnie
 Poniponi, bonboni, onni, sonni
 Kymppitonni, silikoni, roll-oni, paperikori
 Berberi, raparperi, berberi, aa
-Hormoni, mormoni, Flash Gordoni, Tomtomi, Cruisen TomiEmbed
+Hormoni, mormoni, Flash Gordoni, Tomtomi, Cruisen Tomi

@@ -1,3 +1,5 @@
+Missä syömmein on
+Missä kompassin neula tähtää
 Onnellisten kohtaloon
 Sieltä sinua etsin
 Kaipaustani raahaten
@@ -37,4 +39,4 @@ Ja ukkoskellot sois
 Revontulimekko päällään
 Kaipauksen kannen päällä
 
-Revontulimekko päälläänEmbed
+Revontulimekko päällään

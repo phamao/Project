@@ -41,6 +41,10 @@ To collect more data, run `functions/collect_data.py` as many times as desired. 
 
 If you wish to begin collecting data from the first song, it is recommended to delete the following files:
 
+- `cleaned_songs.txt`: This text file tracks all the songs that have already been cleaned so that they will not be cleaned again on subsequent runs. If it is not deleted, then some songs will not be formatted properly when you run `clean_songs.txt`, as it believes those songs have already been cleaned.
+
+- `known_songs.txt`: This text file tracks all the songs that have already been searched so that they will not be searched on subsequent runs. If it is not deleted, the search will begin midway through charts.csv, which may or may not cause issues depending on your purposes.
+
 - `lyrics/*`: Deleting all the files in the `lyrics/` directory will ensure that future searches are actually saving each song. If you do not, each file will be overwritten, and it will be harder to confirm if songs are being saved.
 
 - `20XX/*`: The year directories contain the songs in `known_songs.txt`; therefore, if `known_songs.txt` has been deleted and you wish to run `year_sort.py`, these directores should be empty.
@@ -93,6 +97,8 @@ This project uses data collected and published on [Kaggle](https://www.kaggle.co
 - **Solved 12/13/2023:** ~~Refactor any Python files that directly access `charts.csv` to path to `data/charts.csv` (should just be `collect_data.py` and `year_sort.py`), change any README instances where it says 'export to main directory' to 'export to the `data/` directory, update README~~
 
 - **Solved 12/13/2023:** ~~Merge `songs_by_year.py` and `year_sort.py` into 1 file, update documentation as needed~~
+
+- **Solved 12/13/2023:** ~~Add a list of cleaned songs to avoid removing more lyrics then necessary on subsequent runs of `clean_lyrics.py`~~
 
 - **ADDED 12/12/2023:** Fix some stop words not being detected (vocalizations)
 
@@ -170,7 +176,7 @@ Python script that calls `save_lyrics.py` repeatedly to increase search capabili
 
 #### `save_lyrics.py`
 
-Python script that, given `charts.csv`, searches every song title contained in the file using the Genius API. It then saves the lyrics to a text file named after the song in the `lyrics/` directory.
+Python script that, given `charts.csv`, searches every song title contained in the file using the Genius API. It then saves the lyrics to a text file named after the song in the `lyrics/` directory. Generates a text file named `known_songs.txt`, which keeps track of already-searched songs.
 
 
 ### `functions/processing`
@@ -179,7 +185,7 @@ Directory that contains all the code involved with the processing of data.
 
 #### `clean_lyrics.py`
 
-Python script that cleans all the text files in the `lyrics/` directory of unecessary text.
+Python script that cleans all the text files in the `lyrics/` directory of unecessary text. Generates a text file named `cleaned_songs.txt`, which keeps track of already-cleaned songs.
 
 #### `megalist.py`
 
@@ -201,6 +207,10 @@ Directory containing text files for the lyrics of individual songs.
 ### `visualizations/`
 
 Directory containing various data visualizations.
+
+### `cleaned_songs.txt`
+
+Text file that stores the names of all songs that have been cleaned already; this is done to avoid removing more content that desired on subsequent runs of `clean_lyrics.py`.
 
 ### `known_songs.txt`
 

@@ -1,3 +1,5 @@
+Ilta tuttavilla
+Juhlat terassilla
 Juodaan ylähyllyn viiniä
 Soi biisit spotifystä
 Viis miestä sekä naista
@@ -59,4 +61,4 @@ Ja nyt sen jalassa ei pysy enää alkkarit
 Huutaa häshtäg yoloa
 On aina yhtä noloa
 Ei kateeks käy ton kotirouvan
-Huomispäivän oloaEmbed
+Huomispäivän oloa

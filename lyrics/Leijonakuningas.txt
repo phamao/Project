@@ -1,3 +1,5 @@
+Yy, kaa, yy, kaa, koo nee
+
 Koulussa kun kysyttiin
 Mikä musta tulee isona
 Laulaja tai lätkänpelaaja
@@ -55,4 +57,4 @@ On huomenna leijonakuningas
 
 Tänään ihmisen puolikas
 On huomenna leijonakuningas
-LeijonakuningasEmbed
+Leijonakuningas

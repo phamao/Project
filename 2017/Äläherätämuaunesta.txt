@@ -1,3 +1,5 @@
+Maailma on sun, maailma on sun, kaikki tää kuuluu meille
+Mä haluun auttaa niit kaikkii haippii kenel on jotain annettavaa
 Ja pienempii aina me kannetaan vaan ja väliks ilokseni kannattavaa
 Ei raha tai maine tai aineet mun pääs saa tätä miestä tokkuraan
 Mä pidän tän otteen, jottei ikinä menetä itestään loppuja
@@ -28,4 +30,4 @@ Mä huudan hei, tai mä en pääse sinne uudestaan
 Hei, älä herätä mua unesta
 Mä huudan hei, tai mä en pääse sinne uudestaan
 Hei, älä herätä mua unesta
-Hei, heiEmbed
+Hei, hei

@@ -1,3 +1,6 @@
+Ei filtterii
+Ennen ku on liian myöhästä
+Mus ei oo mitään, mitä voin muuttaa
 Mä oon, mä oon tässä täysillä
 Ja ehkä ei tuu kelpaa
 
@@ -40,4 +43,4 @@ Mä näytän sulle kokonaan kuka oon ilman filtterii
 Tää on meijän maailma, me ei tarvita salaisuuksii
 Jos mä oon se kiipperi, ni täs mä nyt oon
 Mä oon ilman filtterii
-Täs mä nyt oon, mä oon ilman filtteriiEmbed
+Täs mä nyt oon, mä oon ilman filtterii

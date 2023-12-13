@@ -1,3 +1,5 @@
+Suomalainen mies juo ittensä hengilt
+Nappaa makkaran ja twelvin
 Tappaa aikaa ittekseen
 On kuolevainen
 Huolen aihe nainen
@@ -56,4 +58,4 @@ Papi meni puuceest
 Talvi teki huurteen
 Tuli orkut ku joi mukitolkul
 
-[Sample]Embed
+[Sample]

@@ -1,3 +1,5 @@
+
+(Tu dimmi dove che io ti ci porto)
 (Te lo prometto, sì, ma non lo so)
 (Dai, stanotte balliamo sul mondo)
 (Te lo prometto, sì, ma non lo so)
@@ -64,4 +66,4 @@ Te lo prometto, sì, ma non lo so
 Tu dimmi dove che io ti ci porto
 Te lo prometto, sì, ma non lo so
 Dai, stanotte balliamo sul mondo
-Te lo prometto, sì, ma non lo soEmbed
+Te lo prometto, sì, ma non lo so

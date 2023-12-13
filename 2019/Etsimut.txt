@@ -1,3 +1,6 @@
+Jossa on tahmea lattia
+Voisin sun kanssa kadota
+Jo ennen pilkkua
 Ja ensisuudelma maistus riippuvuudelta
 Mä humaltuisin sun huulilla
 
@@ -54,4 +57,4 @@ Niin etsi mut
 Ja jos löytäjä saa pitää, niin etsi mut
 Niin etsi mut
 Ja jos löytäjä saa pitää, niin etsi mut
-Niin etsi mutEmbed
+Niin etsi mut
