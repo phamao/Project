@@ -85,14 +85,14 @@ def top20_words_frequency(num_letters, directory):
 # ONLY RUN ONE OF THESE LOOPS AT A TIME TO AVOID LOSING DATA
 ############################################################
 
-# for i in range(2017, 2022):
-#     top20_words_frequency(0, str(i))
-#     top20_words_frequency(4, str(i))
-#     top20_words_frequency(5, str(i))
-#     print('Completed {year}'.format(year=i))
+for i in range(2017, 2022):
+    top20_words_frequency(0, str(i))
+    top20_words_frequency(4, str(i))
+    top20_words_frequency(5, str(i))
+    print('Completed {year}'.format(year=i))
 
-for i in range(15):
-    top20_words_frequency(i, 'lyrics')
-    print('Completed i = {i}'.format(i=i))
+# for i in range(15):
+#     top20_words_frequency(i, 'lyrics')
+#     print('Completed i = {i}'.format(i=i))
 
 print('\nDone!\n')

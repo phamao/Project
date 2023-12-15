@@ -100,7 +100,7 @@ This project uses data collected and published on [Kaggle](https://www.kaggle.co
 
 - **Solved 12/13/2023:** ~~Add a list of cleaned songs to avoid removing more lyrics then necessary on subsequent runs of `clean_lyrics.py`~~
 
-- **ADDED 12/12/2023:** Fix some stop words not being detected (vocalizations)
+- **Added 12/12/2023, In Progress 12/14/2023:** Fix some stop words not being detected (vocalizations)
 
 
 ## File Hierarchy
